@@ -466,7 +466,7 @@
       "title": "How to Hit More Home Runs in Superstar Baseball",
       "eyebrow": "Batting Guide",
       "subtitle": "The cleanest power comes from pitch selection, contact height, and timing at the plate. This guide turns the game's batting tips into a repeatable home run routine.",
-      "intro": "The most reliable power advice across current guides is consistent: wait for a hittable pitch, attack the center-high part of the zone, and connect as the ball reaches the plate. If you keep producing weak grounders, your contact point is too low or too late.",
+      "intro": "Superstar Baseball is a 7v7 arcade baseball game, and the most reliable power advice across current guides is very consistent: wait for a hittable pitch, attack the center-high part of the zone, and connect as the ball reaches the plate. If you keep producing weak grounders, your contact point is too low or too late. Pair this approach with your best offensive style and keep your strongest bat in a run-producing lineup spot.",
       "steps": [
         {
           "title": "Wait for a hittable pitch",
@@ -493,8 +493,8 @@
     "superstarBaseballFieldingGuide": {
       "title": "Superstar Baseball Fielding Guide",
       "eyebrow": "Defense Guide",
-      "subtitle": "Clean positioning, accurate throws, and disciplined use of the dive input separate solid teams from chaotic ones.",
-      "intro": "The core defensive role in Superstar Baseball is straightforward: fielders catch the ball and make accurate throws to get runners out. Start with reliable outs first, then layer in faster reactions and better team coordination.",
+      "subtitle": "In Superstar Baseball, defense is more than catching the ball. Clean positioning, accurate throws, and disciplined use of the dive input separate solid teams from chaotic ones.",
+      "intro": "The core defensive role in Superstar Baseball is straightforward: fielders catch the ball and make accurate throws to get runners out. Current beginner coverage also gives useful mechanical anchors for defense on PC, including the dive key and the aiming system for throws. Start with reliable outs first, then layer in faster reactions and better team coordination.",
       "items": [
         {
           "title": "Know the fielder's job",
@@ -502,7 +502,7 @@
         },
         {
           "title": "Use dive only when the play demands it",
-          "description": "The Dive key is on E. Treat it as a recovery tool for hard-hit balls and low catches, not your default fielding input."
+          "description": "The PC control guide lists Dive on the E key. Treat it as a recovery tool for hard-hit balls and low catches, not your default fielding input."
         },
         {
           "title": "Aim every throw",
@@ -514,19 +514,19 @@
         },
         {
           "title": "Communicate on team defense",
-          "description": "Current strategy coverage says coordinated teams win more often, especially on defense."
+          "description": "Solo queue works, but coordinated teams win more often, especially on defense."
         },
         {
           "title": "Invest in fielding-impact upgrades before cosmetics",
-          "description": "Spend coins on upgrades that improve win rate first, including stronger fielding support, before cosmetic purchases."
+          "description": "Spend coins on upgrades that improve win rate first, including stronger fielding support, before cosmetic purchases. Cosmetics do not change gameplay performance."
         }
       ]
     },
     "superstarBaseballBaseRunningGuide": {
       "title": "Base Running Basics for New Superstar Baseball Players",
       "eyebrow": "Base Running",
-      "subtitle": "Good base running starts before you leave the bag. Patience, clean reads, and smart aggression create more runs than constant forcing.",
-      "intro": "The available game coverage points to a clear practical approach: get on base through patient at-bats, respect how quickly defenders can convert outs, and push extra bases when the play is clearly in your favor.",
+      "subtitle": "Good base running starts before you leave the bag. In Superstar Baseball, patience, clean reads, and smart aggression create more runs than constant forcing.",
+      "intro": "There is less published base-running detail than batting or codes, but the available game coverage still points to a clear practical approach: get on base through patient at-bats, respect how quickly defenders can convert outs, and push extra bases when the play is clearly in your favor. Because Superstar Baseball is a 7v7 team game with style-based progression, your runner value also improves when your playstyle supports speed and base-running impact.",
       "steps": [
         {
           "title": "Create runners with patience first",
@@ -538,11 +538,11 @@
         },
         {
           "title": "Let speed-oriented playstyles matter",
-          "description": "Superstar Baseball playstyles improve batting, pitching, and base running, so runner value is part of progression."
+          "description": "Superstar Baseball playstyles improve batting, pitching, and base running, so runner value is built into the progression system."
         },
         {
           "title": "Push harder when your team is coordinated",
-          "description": "Coordinated groups control the field better than solo play. Aggressive advancement is safer when teammates are reading the play together."
+          "description": "Coordinated groups control the field better than solo play. Aggressive base advancement is safer when teammates are reading the play together."
         },
         {
           "title": "Protect close-game outs",
@@ -554,19 +554,19 @@
       "title": "How Spins Work in Superstar Baseball",
       "eyebrow": "Progression System",
       "subtitle": "Spins are the core progression loop for styles, characters, gear, and cosmetics. Knowing which spin to use now and which one to save gives you better value immediately.",
-      "intro": "Superstar Baseball starts new players with free spins and ties long-term progression to the Spins system. Lucky Spins are the better resource for stronger pulls, and Style Spins are for cosmetics rather than gameplay power.",
+      "intro": "Superstar Baseball starts new players with free spins and ties long-term progression to the Spins system. Three key facts hold across all guides: there are three main spin types in active use, Lucky Spins are the better resource for stronger pulls, and Style Spins are for cosmetics rather than gameplay power. Codes remain the fastest way to stock up on Spins.",
       "faqs": [
         {
           "question": "What spin types are confirmed right now?",
-          "answer": "Current guide coverage confirms three main categories: Spins (basic roll currency), Lucky Spins (better odds for rarer rewards), and Style Spins (cosmetic unlocks only)."
+          "answer": "Three main spin categories are confirmed in regular use: Spins are the basic roll currency, Lucky Spins have better odds for rarer rewards, and Style Spins are used for cosmetic rewards only."
         },
         {
           "question": "What should I spend first?",
-          "answer": "Use regular Spins freely because they are the easiest to replace through play and codes. Save Lucky Spins for moments when you want a better shot at stronger characters or gear."
+          "answer": "Use regular Spins freely because they are the easiest to replace through play and codes. Save Lucky Spins for moments when you want a better shot at stronger characters or gear. Use Style Spins whenever you want cosmetic unlocks because they do not change gameplay stats."
         },
         {
           "question": "What do new players get at the start?",
-          "answer": "You begin with four free spins to roll one offensive style and one defensive style. You also receive one free spin every 30 minutes of play."
+          "answer": "New players begin with four free spins and use them to roll one offensive style and one defensive style. You also receive one free spin every 30 minutes of play."
         },
         {
           "question": "What are the currently published style odds?",
@@ -574,7 +574,7 @@
         },
         {
           "question": "What is the fastest way to get more Spins?",
-          "answer": "Codes are the fastest source right now. Active codes include DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL, and SUPERSTAR, with rewards that include free Spins, Lucky Spins, and Coins."
+          "answer": "Codes are the fastest source right now. Active codes (April 2026) include DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL, and SUPERSTAR, with rewards that include free Spins, Lucky Spins, and Coins."
         },
         {
           "question": "Where do I redeem codes?",
