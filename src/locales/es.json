@@ -1,28 +1,28 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Superstar Baseball Wiki - Códigos, Estilos y Controles",
+      "description": "Superstar Baseball Wiki cubre códigos, estilos, pitcheo, bateo, fildeo, controles, actualizaciones y consejos para principiantes para jugadores de Roblox que buscan ganar.",
+      "keywords": "Superstar Baseball, Roblox, códigos, estilos, pitcheo, bateo, fildeo, controles, actualizaciones",
+      "ogTitle": "Superstar Baseball Wiki - Códigos, Estilos y Controles",
+      "ogDescription": "Superstar Baseball Wiki cubre códigos, estilos, pitcheo, bateo, fildeo, controles, actualizaciones y consejos para principiantes para jugadores de Roblox que buscan ganar.",
+      "twitterTitle": "Superstar Baseball Wiki - Códigos, Estilos y Controles",
+      "twitterDescription": "Superstar Baseball Wiki cubre códigos, estilos, pitcheo, bateo, fildeo, controles y actualizaciones para jugadores de Roblox."
     }
   },
   "nav": {
     "guide": "Guía de Superstar Baseball",
     "batting": "Bateo en Superstar Baseball",
     "pitching": "Pitcheo en Superstar Baseball",
-    "fielding": "Defensa en Superstar Baseball",
-    "styles": "Estilos en Superstar Baseball",
-    "spins": "Giros en Superstar Baseball",
-    "script": "Scripts de Superstar Baseball"
+    "fielding": "Fildeo en Superstar Baseball",
+    "styles": "Estilos de Superstar Baseball",
+    "spins": "Giros de Superstar Baseball",
+    "script": "Script de Superstar Baseball"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Roblox",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -34,899 +34,954 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Béisbol arcade 7v7 inspirado en el anime",
+    "title": "Superstar Baseball Wiki",
+    "description": "Un juego de béisbol de Roblox de ritmo rápido centrado en partidos 7v7, estilos, pitcheo, bateo, fildeo, códigos y contenido en vivo constante.",
+    "getFreeCodesCTA": "Obtén códigos gratis",
+    "playOnSteamCTA": "Jugar en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "42.6M+",
+        "label": "Visitas totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "17.7K",
+        "label": "Jugadores en vivo"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "10",
+        "label": "Códigos activos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "7v7",
+        "label": "Formato de partido"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Superstar Baseball",
+    "description": "Un juego de béisbol arcade 7v7 inspirado en el anime en Roblox. Pitchea, batea y fildea hacia la victoria usando estilos, códigos y juego inteligente."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Superstar Baseball",
     "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "subtitle": "Todo lo que necesitas para dominar los códigos, estilos, pitcheo, bateo y fildeo en Superstar Baseball",
     "cards": [
       {
+        "icon": "Gift",
+        "title": "Códigos de Superstar Baseball",
+        "description": "Códigos activos para Giros gratis, Giros de la Suerte y Monedas"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Guía para principiantes de Superstar Baseball",
+        "description": "Ciclo principal, primeros giros y fundamentos básicos de los partidos"
       },
       {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "icon": "Trophy",
+        "title": "Mejores estilos de Superstar Baseball",
+        "description": "Prioridad de giros y ranking de valor de estilos por nivel"
       },
       {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
-      },
-      {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
-      },
-      {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "icon": "Zap",
+        "title": "Estilos ofensivos de Superstar Baseball",
+        "description": "Poder, timing y enfoques ofensivos adaptados a la alineación"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Estilos defensivos de Superstar Baseball",
+        "description": "Fiabilidad de captura, alcance y niveles de calidad de lanzamiento"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Controles de Superstar Baseball",
+        "description": "Comandos para batear, selección de pitcheo, lanzarse y tirar"
+      },
+      {
+        "icon": "Target",
+        "title": "Guía de pitcheo de Superstar Baseball",
+        "description": "Tipos de lanzamientos, secuencias y cómo engañar a los bateadores"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guía de bateo de Superstar Baseball",
+        "description": "Timing, zona de strike y consejos para mejorar el contacto"
+      },
+      {
+        "icon": "Star",
+        "title": "Cómo batear Home Runs en Superstar Baseball",
+        "description": "Zona de contacto, timing del swing y configuración de alineación de poder"
+      },
+      {
+        "icon": "Eye",
+        "title": "Guía de fildeo de Superstar Baseball",
+        "description": "Comando para lanzarse, tiros precisos y outs limpios"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Guía de corrido de bases de Superstar Baseball",
+        "description": "Avance paciente y decisiones inteligentes para bases extra"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Guía de giros de Superstar Baseball",
+        "description": "Tipos de giros, probabilidades y cuándo ahorrar Giros de la Suerte"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Cómo conseguir más giros en Superstar Baseball",
+        "description": "Fuentes más rápidas de giros, desde códigos hasta partidos"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Guía de monedas de Superstar Baseball",
+        "description": "Fuentes de monedas, recompensas de códigos y gastos en la tienda"
+      },
+      {
+        "icon": "Package",
+        "title": "Gamepasses de Superstar Baseball",
+        "description": "Beneficios VIP y comparación del pase de Capitán de Equipo"
+      },
+      {
+        "icon": "Clock",
+        "title": "Actualizaciones de Superstar Baseball",
+        "description": "Fechas de las últimas actualizaciones, lanzamientos de códigos y estadísticas de la comunidad"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+    "superstarBaseballCodes": {
+      "title": "Códigos de Superstar Baseball vigentes",
+      "eyebrow": "Recompensas gratuitas",
+      "subtitle": "Canjea códigos para obtener giros gratis, giros de la suerte y monedas. Esta es la forma más rápida de mejorar tu primer equipamiento sin tener que jugar partidas repetitivas.",
+      "intro": "Los códigos de Superstar Baseball son la búsqueda más frecuente del juego porque alimentan directamente el sistema de giros que desbloquea estilos ofensivos y defensivos. Abre el menú de Configuración, desplázate hasta el campo de código, pega un código exactamente como está escrito y canjéalo antes de que expire.",
+      "activeCodes": [
+        {
+          "code": "DEADEYE",
+          "reward": "5 giros gratis"
+        },
+        {
+          "code": "90KLIKES",
+          "reward": "2 giros gratis"
+        },
+        {
+          "code": "SOFTBALL",
+          "reward": "5 giros de la suerte"
+        },
+        {
+          "code": "SKYBOUND",
+          "reward": "5 giros gratis"
+        },
+        {
+          "code": "BLIGHT",
+          "reward": "5 giros de la suerte gratis"
+        },
+        {
+          "code": "TUTORIAL",
+          "reward": "3 giros de la suerte gratis"
+        },
+        {
+          "code": "SUPERSTAR",
+          "reward": "100 monedas"
+        }
+      ],
+      "expiredCodes": [
+        "METRO",
+        "80KLIKES",
+        "70KLIKES",
+        "60KLIKES",
+        "50KLIKES"
+      ],
+      "redeemSteps": [
+        "Abre Superstar Baseball en Roblox",
+        "Toca el ícono de engranaje de Configuración en el menú inferior izquierdo",
+        "Desplázate hasta la parte inferior del panel de configuración",
+        "Pega el código exactamente como se muestra; los códigos distinguen entre mayúsculas y minúsculas",
+        "Presiona Canjear para reclamar tu recompensa gratuita"
+      ]
+    },
+    "superstarBaseballBeginnerGuide": {
+      "title": "Cómo empezar con fuerza en Superstar Baseball",
+      "eyebrow": "Guía para principiantes",
+      "subtitle": "Aprende el ciclo básico, los tres roles y las primeras decisiones más importantes. Los nuevos jugadores obtienen más valor de los códigos iniciales y los fundamentos básicos que de jugar partidas al azar.",
+      "intro": "Superstar Baseball es un juego de béisbol arcade de 7v7 en Roblox donde lanzas, bateas y fildeas en partidas rápidas. El camino más inteligente al inicio es simple: canjea los códigos primero, usa tus giros iniciales, aprende la zona de strike y construye tu equipo en torno a la mejor recompensa que obtengas en lugar de dispersar tus recursos.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Canjea los códigos antes de tu primera sesión real",
+          "description": "Los códigos otorgan giros gratis, giros de la suerte y monedas, lo que acelera de inmediato tu primera configuración."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Usa tus cuatro giros gratis iniciales",
+          "description": "Las cuentas nuevas comienzan con cuatro giros gratis para obtener un estilo ofensivo y uno defensivo."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Comprende tus tres funciones en el campo",
+          "description": "Puedes jugar como bateador, lanzador o jardinero, y cada rol es importante en un partido de 7v7."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Aprende pronto los cuatro tipos de lanzamientos",
+          "description": "Los lanzadores usan curva, sinker, slider y bola rápida, cada uno con diferente velocidad y movimiento."
+        },
+        {
+          "title": "Deja de hacer swing a todo",
+          "description": "La zona de strike es más cerrada de lo que parece. Esperar un lanzamiento realmente bateable es más efectivo que hacer swing sin control."
+        },
+        {
+          "title": "Mide tus swings para que sean tardíos en lugar de adelantados",
+          "description": "Los swings adelantados producen más contactos malos, mientras que el tiempo tardío es más permisivo mientras aprendes el momento de lanzamiento."
+        },
+        {
+          "title": "Guarda los giros de la suerte para las mejoras importantes",
+          "description": "Los giros de la suerte tienen mejores probabilidades que los giros normales, así que úsalos cuando quieras un salto de calidad en tu alineación."
+        },
+        {
+          "title": "Coloca a tu mejor bateador y lanzador en posiciones de alto impacto",
+          "description": "Construye en torno a tu mejor obtención, coloca a tu bateador más fuerte en el 3er o 4to puesto y usa a tu mejor lanzador en los juegos importantes."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Ganas un giro gratis cada 30 minutos de juego; mantén la constancia.",
+        "Los giros de la suerte tienen probabilidades publicadas de 0.5% Legendario, 2% Épico, 35% Raro y 62.5% Poco común.",
+        "Una base por bolas te pone en base igual que un hit; no persigas cada lanzamiento.",
+        "Los equipos de 7v7 coordinados ganan con más frecuencia que los grupos de jugadores individuales que no se comunican."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+    "superstarBaseballBestStyles": {
+      "title": "Guía de los mejores estilos de Superstar Baseball",
+      "eyebrow": "Prioridades del meta",
+      "subtitle": "La página de meta más práctica es una cuadrícula de prioridades que muestra qué deben conservar, buscar y en qué deben gastar primero los jugadores.",
+      "intro": "Para Superstar Baseball, los datos públicos más confiables sobre los estilos son cómo se obtienen y cómo evaluar el valor de una recompensa. Los giros de la suerte mejoran tus probabilidades de obtener recompensas raras, los estilos Legendario y Épico son los más buscados, y la mejor decisión suele ser invertir en el bateador o lanzador más fuerte que ya tengas en lugar de intentar giros nuevos infinitamente.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Mejoras de giros de la suerte",
+          "summary": "Mejor uso de las recompensas premium",
+          "details": [
+            "Los giros de la suerte tienen mejores probabilidades que los giros normales.",
+            "El mejor objetivo para los jugadores que buscan activamente mejoras ofensivas o defensivas más fuertes.",
+            "Más eficiente cuando se usa después de canjear códigos y entender qué le falta a tu alineación."
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Resultados Legendarios y Épicos",
+          "summary": "Recompensas de mayor valor",
+          "details": [
+            "Las probabilidades de rareza publicadas listan Legendario en 0.5% y Épico en 2%.",
+            "Estos son los estilos en los que vale la pena basarse en lugar de cambiarlos de inmediato.",
+            "Coloca a tu mejor bateador en el 3er o 4to puesto y a tu mejor lanzador en los partidos importantes."
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Estilos Raros de juego regular",
+          "summary": "Base sólida de progresión",
+          "details": [
+            "Los estilos raros están en el 35% en el desglose de rareza publicado.",
+            "Suficientemente buenos para anclar el juego inicial y medio mientras acumulas mejores giros.",
+            "Ideal para jugadores que quieren un valor estable sin gastar cada giro de la suerte de inmediato."
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Soluciones temporales Poco comunes",
+          "summary": "Úsalos al principio, reemplázalos después",
+          "details": [
+            "Los estilos poco comunes son el resultado publicado más frecuente con un 62.5%.",
+            "Sirven para aprender los fundamentos de bateo, lanzamiento y fildeo.",
+            "Reemplázalos primero una vez que consigas una mejora ofensiva o defensiva más fuerte."
+          ]
+        }
+      ]
+    },
+    "superstarBaseballOffensiveStyles": {
+      "title": "Guía de Estilos Ofensivos de Superstar Baseball",
+      "eyebrow": "Referencia de Bateo",
+      "subtitle": "Los jugadores quieren saber qué se traduce realmente en carreras. Este módulo vincula la toma de decisiones ofensivas con reglas de bateo comprobadas, ventanas de tiempo y patrones de anotación.",
+      "intro": "La página ofensiva más útil para Superstar Baseball es una referencia práctica basada en cómo se crean realmente las carreras. El tiempo es la habilidad principal, los jonrones son la forma más rápida de anotar, el reconocimiento de lanzamientos importa de inmediato y tu tiro ofensivo más fuerte debe definir el orden de la alineación.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
-        },
-        {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
-        },
-        {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
-        },
-        {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
-        }
-      ],
-      "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
-      "items": [
-        {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
-        },
-        {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
-        },
-        {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
-      "solutions": [
-        {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
-        },
-        {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
-        },
-        {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
-        },
-        {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
-        }
-      ],
-      "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
-        {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
-        },
-        {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
-        },
-        {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
-        }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
-        },
-        {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
-        },
-        {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
-        {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
-        },
-        {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
-        },
-        {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
-        },
-        {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
-        },
-        {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
-        }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
-        {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
-        },
-        {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
-        },
-        {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
-        },
-        {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
-        {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
-        },
-        {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
-        },
-        {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
-        {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
+          "title": "Ofensiva de poder primero",
+          "description": "Prioriza los tiros ofensivos que te ayuden a convertir lanzamientos altos al centro en daño de extra base, porque los jonrones son la forma más rápida de anotar.",
+          "highlights": [
+            "Ideal cuando ya puedes medir bien el tiempo de las bolas rápidas",
+            "Funciona especialmente bien en el 3er o 4to puesto de bateo",
+            "Castiga los errores en el centro de la zona"
           ]
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
+          "title": "Ofensiva de contacto y tiempo",
+          "description": "Si tus swings aún son inconsistentes, valora las configuraciones ofensivas que recompensan un tiempo más preciso por encima de la agresividad total.",
+          "highlights": [
+            "El contacto tardío es más seguro que fallar por adelantarse",
+            "Útil para nuevos jugadores que aprenden la ventana de lanzamiento",
+            "Convierte más turnos al bate en contacto jugable"
           ]
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
+          "title": "Ofensiva de lectura de lanzamientos",
+          "description": "Las mejores decisiones ofensivas comienzan antes del swing. Las bolas rápidas llegan rectas y veloces, mientras que las curvas necesitan un ligero retraso.",
+          "highlights": [
+            "Haz el swing antes con las bolas rápidas",
+            "Espera más con los lanzamientos quebrados",
+            "Leer el lanzamiento en el primer medio segundo genera un mejor contacto"
           ]
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
+          "title": "Enfoque paciente en el plato",
+          "description": "No todas las situaciones ofensivas deben terminar en un swing. Las bases por bolas siguen creando corredores y obligan a los lanzadores débiles a desafiar la zona.",
+          "highlights": [
+            "No persigas cada lanzamiento",
+            "Útil contra lanzadores que no encuentran la zona",
+            "Combina bien con puestos en la alineación que necesitan presión constante en las bases"
           ]
         },
         {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
+          "title": "Ofensiva ajustada a la alineación",
+          "description": "Un tiro ofensivo fuerte se vuelve más valioso cuando se usa en el lugar correcto de la alineación en lugar de enterrarlo al azar.",
+          "highlights": [
+            "Coloca a tu mejor bateador en el 3er o 4to puesto",
+            "Deja que los bates más débiles apoyen en lugar de cargar con la producción de carreras",
+            "Construye el orden alrededor de tu tiro más fuerte"
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+    "superstarBaseballDefensiveStyles": {
+      "title": "Estilos Defensivos de Superstar Baseball",
+      "eyebrow": "Meta de Defensa",
+      "subtitle": "La defensa es lo más fácil de subestimar cuando la mayoría de los jugadores se enfocan primero en el bateo. Las buenas elecciones de estilo defensivo te ayudan a asegurar atrapadas más limpias, outs más rápidos y menos bases extra permitidas.",
+      "intro": "Superstar Baseball inicia a los jugadores con un estilo ofensivo y un estilo defensivo de los giros, y el impacto defensivo se nota más claramente en la confiabilidad al atrapar, la calidad del tiro, el posicionamiento y la prevención de carreras.",
+      "tiers": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "tier": "S",
+          "label": "Atrapada Confiable + Tiro Rápido",
+          "summary": "Mejor prioridad defensiva general",
+          "details": [
+            "Los resultados defensivos más sólidos provienen de asegurar bolas jugables y convertirlas en outs rápidos.",
+            "Ideal para la recuperación en los jardines y para evitar que los dobles se conviertan en triples.",
+            "Más valioso en jugadas bajo presión con corredores en base."
+          ]
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "tier": "A",
+          "label": "Alcance + Posicionamiento",
+          "summary": "Defensa de apoyo de alto valor",
+          "details": [
+            "Llegar antes a la bola reduce los tiros de pánico y le da a la defensa más tiempo para realizar la jugada correcta.",
+            "Útil para cubrir huecos y cortar líneas.",
+            "Ayuda a respaldar a los compañeros en elevados cortos y rebotes complicados."
+          ]
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "tier": "B",
+          "label": "Fuerza de Brazo Pura",
+          "summary": "Útil pero más situacional",
+          "details": [
+            "Un brazo fuerte ayuda después de la atrapada, pero hace menos por sí solo si tu equipo llega tarde a la bola.",
+            "Ideal para tiros largos desde los jardines y jugadas forzadas en el plato.",
+            "Más impactante cuando se combina con fundamentos de atrapada confiables."
+          ]
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "tier": "C",
+          "label": "Defensa de Utilidad de Bajo Impacto",
+          "summary": "Jugable pero no es un objetivo prioritario",
+          "details": [
+            "El valor defensivo cae cuando una configuración no mejora claramente la consistencia de la atrapada o la velocidad del tiro.",
+            "Está bien para juego casual o profundidad inicial del equipo.",
+            "Reemplaza estos primero una vez que consigas una mejor mejora defensiva."
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+    "superstarBaseballControls": {
+      "title": "Controles de Superstar Baseball",
+      "eyebrow": "Controles",
+      "subtitle": "La mayoría de los jugadores nuevos pierden sus primeros juegos porque no conocen los comandos clave lo suficientemente rápido. Esta página ofrece una lista de referencia rápida de controles para bateo, pitcheo y fildeo en PC.",
+      "intro": "Superstar Baseball divide el juego en roles de bateador, lanzador y filder. Los comandos de PC confirmados más importantes son swing, selección de lanzamiento, lanzarse y tirar, con la selección de lanzamiento asignada a las teclas numéricas y los tiros defensivos requiriendo apuntar hacia un compañero.",
+      "rows": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "role": "Bateador",
+          "action": "Swing",
+          "input": "Clic izquierdo del mouse",
+          "notes": "Úsalo para hacer contacto en el plato."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "role": "Lanzador",
+          "action": "Seleccionar tipo de lanzamiento",
+          "input": "Teclas numéricas 1–4",
+          "notes": "1 = Curva, 2 = Sinker, 3 = Slider, 4 = Bola rápida."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "role": "Filder",
+          "action": "Lanzarse",
+          "input": "E",
+          "notes": "Úsalo para intentos de atrapada y jugadas de alcance de emergencia."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "role": "Filder",
+          "action": "Tirar la bola",
+          "input": "Clic izquierdo del mouse",
+          "notes": "Después de atrapar la bola, apunta la flecha verde hacia el compañero objetivo."
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "role": "Menú",
+          "action": "Abrir canje de códigos",
+          "input": "Menú de ajustes",
+          "notes": "Abre Ajustes, desplázate hacia abajo e ingresa un código de recompensa."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
-        {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
-        },
-        {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
-        },
-        {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
-        },
-        {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
-        {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
-        },
-        {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
-        },
-        {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+    "superstarBaseballPitchingGuide": {
+      "title": "Guía de pitcheo de Superstar Baseball",
+      "eyebrow": "Pitcheo",
+      "subtitle": "El pitcheo se convierte en la primera prueba real de habilidad una vez que los jugadores entienden los controles. Ganar más seguido depende de mezclar velocidad, movimiento y ubicación en lugar de repetir el mismo lanzamiento.",
+      "intro": "El juego cuenta actualmente con cuatro tipos de lanzamientos confirmados: Curveball a 65-85 mph, Sinker a 70-90 mph, Slider a 75-90 mph y Fastball a 80-100 mph. El mejor enfoque práctico es usar cada lanzamiento para un propósito diferente y secuenciarlos para que el bateador no pueda fijarse en un solo tiempo de reacción.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Aprende qué busca cada lanzamiento",
+          "description": "La Fastball gana con velocidad, la Curveball cambia el nivel visual y el movimiento, el Slider añade un quiebre tardío más pronunciado y el Sinker es útil para contactos más débiles y presión de roletazos."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Comienza con velocidad, luego rompe el tiempo",
+          "description": "Una secuencia común es un lanzamiento fuerte primero, seguido de uno más lento o con movimiento. Una Fastball adentro seguida de una Curveball afuera hace que los bateadores se comprometan antes de tiempo."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "title": "Usa el Sinker cuando quieras un contacto más suave",
+          "description": "Los Sinkers caen y son especialmente útiles cuando quieres que los bateadores le den por encima a la bola en lugar de conectarla limpiamente."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "title": "Evita repetir el mismo patrón",
+          "description": "Lanzar el mismo pitcheo en la misma situación hace que el turno al bate sea más fácil de leer. Rota las ubicaciones y evita volverte predecible en cuentas llenas."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Crea un plan simple de tres lanzamientos",
+          "description": "Un patrón básico sólido es Fastball adentro, Curveball afuera y luego un cambio de velocidad o un lanzamiento que quiebre más bajo. El objetivo son tres decisiones incómodas seguidas."
+        }
+      ],
+      "pitchReference": [
+        {
+          "name": "Curveball",
+          "speed": "65–85 mph",
+          "use": "Cambio de nivel visual y movimiento tardío"
+        },
+        {
+          "name": "Sinker",
+          "speed": "70–90 mph",
+          "use": "Presión de roletazos y contacto suave"
+        },
+        {
+          "name": "Slider",
+          "speed": "75–90 mph",
+          "use": "Quiebre horizontal tardío y pronunciado"
+        },
+        {
+          "name": "Fastball",
+          "speed": "80–100 mph",
+          "use": "Ventaja de velocidad e interrupción del tiempo"
+        }
+      ]
+    },
+    "superstarBaseballBattingGuide": {
+      "title": "Guía de bateo de Superstar Baseball",
+      "eyebrow": "Bateo",
+      "subtitle": "El bateo parece simple al principio, pero el tiempo y la disciplina en el swing separan el contacto débil de la verdadera presión ofensiva.",
+      "intro": "La ventana de bateo en Superstar Baseball es estrecha, y el tiempo es la mecánica principal a dominar. Una base sólida es observar la bola desde que sale de la mano del lanzador, evitar swings de pánico y buscar contacto en la zona central a superior cuando intentes conectar la bola para extrabases.",
+      "steps": [
+        {
+          "title": "Aprende la zona de strike antes de buscar poder",
+          "description": "La zona de strike es más pequeña de lo que muchos jugadores nuevos esperan, por lo que los turnos pacientes crean mejores oportunidades de swing que los swings constantes y apresurados."
+        },
+        {
+          "title": "Inicia tu swing alrededor del punto medio",
+          "description": "Una señal práctica de tiempo es comenzar el swing cuando la bola está aproximadamente a mitad de camino hacia el plato. Demasiado pronto suele llevar a contactos de foul, y demasiado tarde lleva a abanicar o roletazos débiles."
+        },
+        {
+          "title": "Deja de hacer swing por desesperación",
+          "description": "Los swings de pánico repetidos facilitan que los lanzadores te venzan con movimiento o cambios de velocidad. Deja pasar los lanzamientos dudosos y fuerza una mejor bola en tu zona."
+        },
+        {
+          "title": "Busca contacto al centro y arriba para obtener poder",
+          "description": "Cuando los jugadores quieren más amenaza de jonrón o extrabase, el contacto en la zona central-superior es el área objetivo más útil para practicar."
+        },
+        {
+          "title": "Lee al lanzador, no solo a la bola",
+          "description": "Los lanzadores caen en hábitos. Si notas Fastballs repetidas en momentos de presión o el mismo lanzamiento que quiebra después de un strike, espera ese patrón y castígalo."
+        }
+      ]
+    },
+    "superstarBaseballHowToHitHomeRuns": {
+      "title": "Cómo conectar más jonrones en Superstar Baseball",
+      "eyebrow": "Guía de bateo",
+      "subtitle": "El poder más limpio proviene de la selección de lanzamientos, la altura del contacto y el tiempo en el plato. Esta guía convierte los consejos de bateo del juego en una rutina de jonrones repetible.",
+      "intro": "Superstar Baseball es un juego de béisbol arcade de 7v7, y el consejo de poder más confiable en las guías actuales es muy consistente: espera un lanzamiento bateable, ataca la parte central-superior de la zona y conecta cuando la bola llegue al plato. Si sigues produciendo roletazos débiles, tu punto de contacto es demasiado bajo o demasiado tarde. Combina este enfoque con tu mejor estilo ofensivo y mantén tu bate más fuerte en un puesto de la alineación que produzca carreras.",
+      "steps": [
+        {
+          "title": "Espera un lanzamiento bateable",
+          "description": "No le hagas swing a todo. Las guías actuales recalcan que la paciencia gana turnos, y una base por bolas sigue poniéndote en base."
+        },
+        {
+          "title": "Busca la zona central-superior",
+          "description": "El mejor consejo actual para jonrones es atacar lanzamientos en la parte central-superior de la zona de strike porque eso te da el mejor ángulo de salida para un contacto profundo."
+        },
+        {
+          "title": "Haz el swing cuando la bola llegue al plato",
+          "description": "El tiempo importa más que spamear el swing. La ventana de contacto recomendada es justo cuando la bola llega al plato, no antes."
+        },
+        {
+          "title": "Usa el mal contacto como retroalimentación",
+          "description": "Si sigues bateando roletazos, ajusta hacia arriba o más tarde. Los roletazos débiles están ligados al contacto bajo o al tiempo tardío."
+        },
+        {
+          "title": "Construye alrededor de tu mejor bateador",
+          "description": "Cuando consigas un personaje o estilo ofensivo fuerte, haz que ese bate sea el centro de tu alineación. Pon a tu mejor bateador en el 3er o 4to puesto para maximizar las oportunidades de carreras impulsadas."
+        }
+      ]
+    },
+    "superstarBaseballFieldingGuide": {
+      "title": "Guía de fildeo de Superstar Baseball",
+      "eyebrow": "Guía de defensa",
+      "subtitle": "En Superstar Baseball, la defensa es más que atrapar la bola. Un posicionamiento limpio, lanzamientos precisos y el uso disciplinado del comando de lanzarse separan a los equipos sólidos de los caóticos.",
+      "intro": "El rol defensivo principal en Superstar Baseball es sencillo: los fildeadores atrapan la bola y realizan lanzamientos precisos para retirar a los corredores. La cobertura actual para principiantes también ofrece anclajes mecánicos útiles para la defensa en PC, incluyendo la tecla para lanzarse y el sistema de apuntado para los tiros. Comienza asegurando los outs confiables primero, luego añade reacciones más rápidas y mejor coordinación de equipo.",
+      "items": [
+        {
+          "title": "Conoce el trabajo del fildeador",
+          "description": "Tu rol defensivo es atrapar la bola y realizar lanzamientos precisos para retirar a los corredores."
+        },
+        {
+          "title": "Usa el clavado solo cuando la jugada lo exija",
+          "description": "La guía de controles de PC indica que lanzarse es con la tecla E. Trátalo como una herramienta de recuperación para bolas bateadas con fuerza y atrapadas bajas, no como tu comando de fildeo por defecto."
+        },
+        {
+          "title": "Apunta cada lanzamiento",
+          "description": "Después de atraparla, lanza con el clic izquierdo y alinea la flecha verde con tu compañero de equipo para un relevo más limpio."
+        },
+        {
+          "title": "Protege el out fácil primero",
+          "description": "Un out simple y preciso vale más que un intento apresurado de jugada de fantasía. Los lanzamientos confiables mantienen las entradas bajo control."
+        },
+        {
+          "title": "Comunícate en la defensa de equipo",
+          "description": "Jugar solo funciona, pero los equipos coordinados ganan más a menudo, especialmente en defensa."
+        },
+        {
+          "title": "Investiga en mejoras de impacto en el fildeo antes que en cosméticos",
+          "description": "Gasta monedas en mejoras que aumenten la tasa de victorias primero, incluyendo un apoyo de fildeo más fuerte, antes de comprar cosméticos. Los cosméticos no cambian el rendimiento en el juego."
+        }
+      ]
+    },
+    "superstarBaseballBaseRunningGuide": {
+      "title": "Conceptos básicos de corrido de bases para nuevos jugadores de Superstar Baseball",
+      "eyebrow": "Corrido de bases",
+      "subtitle": "Un buen corrido de bases comienza antes de salir de la almohadilla. En Superstar Baseball, la paciencia, las lecturas claras y la agresividad inteligente generan más carreras que forzar las jugadas constantemente.",
+      "intro": "Hay menos detalles publicados sobre el corrido de bases que sobre el bateo o los códigos, pero la cobertura disponible del juego apunta a un enfoque práctico claro: embasarse mediante turnos al bate pacientes, respetar la rapidez con la que los defensores pueden concretar outs y buscar bases extra cuando la jugada esté claramente a tu favor. Debido a que Superstar Baseball es un juego de equipo 7v7 con progresión basada en estilos, tu valor como corredor también mejora cuando tu estilo de juego favorece la velocidad y el impacto en el corrido de bases.",
+      "steps": [
+        {
+          "title": "Crea corredores primero con paciencia",
+          "description": "No tienes que hacerle swing a cada lanzamiento. La guía de bateo actual indica específicamente que una base por bolas te pone en base igual que un hit."
+        },
+        {
+          "title": "Lee la pelota antes de forzar bases extra",
+          "description": "El hábito inicial más seguro es confirmar un contacto limpio y el posicionamiento defensivo antes de comprometerse a un avance extra."
+        },
+        {
+          "title": "Deja que los estilos de juego orientados a la velocidad importen",
+          "description": "Los estilos de juego de Superstar Baseball mejoran el bateo, el pitcheo y el corrido de bases, por lo que el valor del corredor está integrado en el sistema de progresión."
+        },
+        {
+          "title": "Presiona más cuando tu equipo esté coordinado",
+          "description": "Los grupos coordinados controlan mejor el campo que el juego en solitario. El avance agresivo de bases es más seguro cuando los compañeros leen la jugada juntos."
+        },
+        {
+          "title": "Protege los outs en juegos cerrados",
+          "description": "Los jugadores nuevos pierden juegos apretados al regalar outs fáciles en las bases. Prioriza el avance limpio sobre las apuestas de bajo porcentaje hasta que conozcas el ritmo del partido."
+        }
+      ]
+    },
+    "superstarBaseballSpinsGuide": {
+      "title": "Cómo funcionan los giros (Spins) en Superstar Baseball",
+      "eyebrow": "Sistema de progresión",
+      "subtitle": "Los giros son el ciclo central de progresión para estilos, personajes, equipo y cosméticos. Saber qué giro usar ahora y cuál guardar te da un mejor valor de inmediato.",
+      "intro": "Superstar Baseball inicia a los nuevos jugadores con giros gratuitos y vincula la progresión a largo plazo al sistema de giros. Tres datos clave se mantienen en todas las guías: hay tres tipos principales de giros en uso activo, los Lucky Spins son el mejor recurso para obtener mejores resultados y los Style Spins son para cosméticos en lugar de poder de juego. Los códigos siguen siendo la forma más rápida de acumular giros.",
+      "faqs": [
+        {
+          "question": "¿Qué tipos de giros están confirmados ahora mismo?",
+          "answer": "Se confirman tres categorías principales de giros en uso regular: los Spins son la moneda de tiro básica, los Lucky Spins tienen mejores probabilidades para recompensas más raras y los Style Spins se usan solo para recompensas cosméticas."
+        },
+        {
+          "question": "¿Qué debería gastar primero?",
+          "answer": "Usa los Spins normales libremente porque son los más fáciles de reemplazar mediante el juego y los códigos. Guarda los Lucky Spins para momentos en los que quieras una mejor oportunidad de obtener personajes o equipo más fuertes. Usa los Style Spins cuando quieras desbloqueos cosméticos, ya que no cambian las estadísticas de juego."
+        },
+        {
+          "question": "¿Qué reciben los jugadores nuevos al empezar?",
+          "answer": "Los jugadores nuevos comienzan con cuatro giros gratis y los usan para obtener un estilo ofensivo y un estilo defensivo. También recibes un giro gratis cada 30 minutos de juego."
+        },
+        {
+          "question": "¿Cuáles son las probabilidades de estilo publicadas actualmente?",
+          "answer": "La guía actual para principiantes enumera las probabilidades de Lucky Spins como: Legendario 0.5%, Épico 2%, Raro 35% y Poco común 62.5%."
+        },
+        {
+          "question": "¿Cuál es la forma más rápida de conseguir más giros?",
+          "answer": "Los códigos son la fuente más rápida en este momento. Los códigos activos (abril de 2026) incluyen DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL y SUPERSTAR, con recompensas que incluyen Spins gratis, Lucky Spins y monedas."
+        },
+        {
+          "question": "¿Dónde canjeo los códigos?",
+          "answer": "Abre Superstar Baseball, toca el engranaje de Settings, desplázate hasta la parte inferior del menú de configuración, ingresa el código de recompensa y presiona Redeem. Los códigos distinguen entre mayúsculas y minúsculas."
+        }
+      ]
+    },
+    "superstarBaseballHowToGetMoreSpins": {
+      "title": "Cómo conseguir más giros en Superstar Baseball",
+      "eyebrow": "Obtención de giros",
+      "subtitle": "Los giros son la forma más rápida de mejorar tu equipamiento porque desbloquean nuevos estilos ofensivos y defensivos. Las ganancias más rápidas provienen de acumular códigos primero, luego sumar el juego en partidos y el progreso de hitos.",
+      "intro": "Si tu objetivo es volver a girar (reroll) para obtener mejores estilos más rápido, comienza con las fuentes garantizadas antes de depender del esfuerzo repetitivo (grind). Los códigos son la mejor fuente inmediata, mientras que el juego en partidos y el progreso de hitos son la ruta repetible dentro del juego después de eso.",
+      "items": [
+        {
+          "label": "Canjea primero los últimos códigos de recompensa activos",
+          "details": [
+            "DEADEYE — 5 Spins",
+            "90KLIKES — 2 Spins",
+            "SOFTBALL — 5 Spins",
+            "SKYBOUND — 5 Spins",
+            "BLIGHT — 5 Lucky Spins",
+            "TUTORIAL — 3 Lucky Spins",
+            "SUPERSTAR — 100 monedas"
+          ]
+        },
+        {
+          "label": "Prioriza los Lucky Spins cuando estén disponibles",
+          "details": [
+            "Los Lucky Spins tienen mejores probabilidades para estilos más raros.",
+            "BLIGHT y TUTORIAL son fuentes actuales de códigos públicos para Lucky Spins."
+          ]
+        },
+        {
+          "label": "Juega partidos para mantener el flujo de giros después de los códigos",
+          "details": [
+            "La cobertura de la guía de la comunidad indica que ganas giros al jugar partidos.",
+            "La cola en solitario está disponible en 7v7, por lo que no necesitas un equipo predeterminado para seguir recolectando."
+          ]
+        },
+        {
+          "label": "Alcanza hitos para obtener progreso de giros extra",
+          "details": [
+            "Los hitos son una fuente continua de giros después del canje de códigos.",
+            "Este es el recurso principal una vez que se agota el lote de códigos actual."
+          ]
+        },
+        {
+          "label": "Revisa las ventanas de actualización para nuevos lanzamientos de códigos",
+          "details": [
+            "Los rastreadores de códigos señalan que a menudo aparecen nuevos códigos cerca de las actualizaciones.",
+            "Eso hace que los días de actualización sean el mejor momento para buscar nuevos giros gratis."
+          ]
+        },
+        {
+          "label": "Usa correctamente la ruta de canje dentro del juego",
+          "details": [
+            "Abre Settings desde el área inferior izquierda de la pantalla.",
+            "Desplázate hasta el campo del código de recompensa, ingresa el código exactamente y presiona Redeem.",
+            "Los códigos distinguen entre mayúsculas y minúsculas en las instrucciones de canje públicas."
+          ]
+        }
+      ]
+    },
+    "superstarBaseballCoinsGuide": {
+      "title": "Guía de Monedas de Superstar Baseball",
+      "eyebrow": "Moneda",
+      "subtitle": "Las monedas son la divisa principal vinculada a las compras en la tienda y al valor inicial de la cuenta. Las recompensas por códigos son la forma gratuita más sencilla de empezar a acumular un saldo de monedas.",
+      "intro": "Para una progresión práctica, piensa en las monedas como tu presupuesto para la tienda: las pequeñas inyecciones de códigos y bonificaciones ayudan al principio, mientras que los beneficios premium añaden un mayor valor único.",
+      "rows": [
+        {
+          "source": "Bonificación por unirse a Metavision",
+          "reward": "500 Monedas",
+          "method": "Bonificación oficial de la experiencia de Roblox",
+          "notes": "La página del juego anuncia una BONIFICACIÓN DE 500 MONEDAS por unirse a Metavision."
+        },
+        {
+          "source": "Código SUPERSTAR",
+          "reward": "100 Monedas",
+          "method": "Canjear en Configuración",
+          "notes": "Un código público activo otorga actualmente valor directo en monedas en lugar de Giros."
+        },
+        {
+          "source": "Gamepass Superstars VIP",
+          "reward": "3,000 Monedas",
+          "method": "Bonificación premium de una sola vez",
+          "notes": "Incluido junto con skins exclusivas y 2X XP."
+        },
+        {
+          "source": "Gasto en la tienda",
+          "reward": "Usa Monedas",
+          "method": "Compras dentro del juego",
+          "notes": "Las monedas se pueden gastar en compras en la Tienda."
+        },
+        {
+          "source": "Progresión general",
+          "reward": "Rol de moneda principal",
+          "method": "Economía continua de la cuenta",
+          "notes": "Las monedas son la divisa principal para mejoras y cosméticos."
+        }
+      ]
+    },
+    "superstarBaseballGamepasses": {
+      "title": "Gamepasses de Superstar Baseball",
+      "eyebrow": "Gamepasses",
+      "subtitle": "Los dos gamepasses registrados sirven para objetivos distintos: aumentar el valor de la cuenta más rápido mediante beneficios VIP, o prioridad en el control del equipo mediante el Capitán de Equipo.",
+      "intro": "Si solo planeas comprar un pase, decide si prefieres valor directo o prioridad en el control del equipo. Superstars VIP es el paquete más completo para jugadores que buscan XP adicional, cosméticos y una inyección de monedas.",
+      "passes": [
+        {
+          "name": "Superstars VIP",
+          "priceRobux": 749,
+          "bestFor": "Jugadores que buscan el mayor valor general para su cuenta",
+          "perks": [
+            "Skin de bate legendaria exclusiva Superstar Slugger",
+            "Skin de guante legendaria exclusiva Superstar Glove",
+            "Skin de rastro épica exclusiva Superstar Trail",
+            "Potenciador de 2X XP",
+            "Bonificación única de 3,000 Monedas",
+            "Más beneficios próximamente"
+          ]
+        },
+        {
+          "name": "Capitán de Equipo",
+          "priceRobux": 349,
+          "bestFor": "Jugadores que quieren prioridad de capitán en la selección de equipo",
+          "perks": [
+            "Elegido automáticamente sobre quienes no tienen el pase para ser Capitán de Equipo"
+          ]
+        }
+      ]
+    },
+    "superstarBaseballUpdates": {
+      "title": "Actualizaciones y Estado Actual de Superstar Baseball",
+      "eyebrow": "Actualizaciones en Vivo",
+      "subtitle": "Esta página rastrea el estado visible más reciente del juego, desde las fechas de actualización oficiales hasta las oleadas de códigos actuales y el crecimiento de la comunidad en vivo.",
+      "intro": "Superstar Baseball sigue recibiendo mantenimiento activo y cuenta con una gran presencia de audiencia en vivo en Roblox y páginas de seguimiento de la comunidad. Combina los marcadores de actualización oficiales con los lotes de códigos actuales y las estadísticas del ecosistema en vivo.",
+      "entries": [
+        {
+          "date": "2026-03-31",
+          "title": "La página oficial de Roblox muestra una actualización reciente",
+          "description": "La lista de la experiencia en Roblox muestra actualmente que el juego se actualizó el 31 de marzo de 2026, lo que lo convierte en el principal marcador oficial del estado de la versión visible más reciente."
+        },
+        {
+          "date": "2026-04-01",
+          "title": "El lote de códigos activos actuales sigue vigente",
+          "description": "Los rastreadores de códigos públicos confirmaron el conjunto activo el 1 de abril de 2026, incluyendo DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL y SUPERSTAR."
+        },
+        {
+          "date": "2026-03",
+          "title": "La era reciente de códigos refleja hitos continuos y lanzamientos temáticos",
+          "description": "El conjunto de códigos actuales y recientemente expirados incluye etiquetas de hitos como 90KLIKES, 80KLIKES, 70KLIKES, 60KLIKES y 50KLIKES, además de lanzamientos temáticos como BLIGHT, SKYBOUND y SOFTBALL."
+        },
+        {
+          "date": "2026-04",
+          "title": "El ecosistema rastreado muestra una sólida escala comunitaria",
+          "description": "El grupo de Roblox de Metavision figura con 656,244 miembros con un fuerte crecimiento el día anterior en Rolimon's, lo que muestra un sólido impulso comunitario actual en torno al desarrollador."
+        },
+        {
+          "date": "Current tracked snapshot",
+          "title": "La presencia del juego en vivo sigue siendo sustancial",
+          "description": "Las páginas de seguimiento público muestran información de lanzamiento desde enero de 2025 y presentan una gran base de jugadores activos con más de 42 millones de visitas totales y decenas de miles de jugadores simultáneos."
         }
       ]
     }
   },
   "faq": {
     "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Superstar Baseball",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Cómo canjeo códigos en Superstar Baseball?",
+        "answer": "Abre Superstar Baseball, toca el ícono de engranaje de Configuración en el menú inferior izquierdo, desplázate hasta el final para encontrar el campo de código, pega el código exactamente como se muestra y presiona Canjear. Los códigos distinguen entre mayúsculas y minúsculas."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cuáles son los códigos activos de Superstar Baseball en este momento?",
+        "answer": "Los códigos activos actualmente son DEADEYE (5 giros), 90KLIKES (2 giros), SOFTBALL (5 giros de la suerte), SKYBOUND (5 giros), BLIGHT (5 giros de la suerte), TUTORIAL (3 giros de la suerte) y SUPERSTAR (100 monedas)."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Cuál es la diferencia entre Giros y Giros de la Suerte en Superstar Baseball?",
+        "answer": "Los Giros regulares son la moneda básica para tirar. Los Giros de la Suerte tienen mejores probabilidades para estilos más raros, con probabilidades publicadas de 0.5% Legendario, 2% Épico, 35% Raro y 62.5% Poco común."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Cómo obtengo más Giros en Superstar Baseball?",
+        "answer": "Canjea primero los códigos activos para obtener ganancias más rápidas. Después de eso, gana Giros jugando partidos y completando hitos. También recibes un giro gratis cada 30 minutos de juego."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Cuáles son los tipos de lanzamientos en Superstar Baseball?",
+        "answer": "Hay cuatro tipos de lanzamientos confirmados: Curva (65-85 mph, tecla numérica 1), Sinker (70-90 mph, tecla 2), Slider (75-90 mph, tecla 3) y Recta (80-100 mph, tecla 4)."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cómo conecto jonrones en Superstar Baseball?",
+        "answer": "Espera un lanzamiento bateable, apunta a la zona media-alta y batea cuando la bola llegue al plato. Los rodados débiles suelen significar que el contacto es demasiado bajo o que el tiempo es demasiado tarde. Coloca a tu mejor bateador en el 3er o 4to turno al bate."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para jugar Superstar Baseball?",
+    "description": "¡Únete a la comunidad de Superstar Baseball y domina los códigos, estilos, lanzamientos y bateo!",
+    "joinCommunity": "Síguenos en X / Twitter",
+    "joinGame": "Jugar en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de Superstar Baseball",
+    "description": "Tu centro de recursos completo para códigos, estilos, lanzamientos, bateo, fildeo, controles y guías para principiantes de Superstar Baseball.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "discord": "X / Twitter",
+    "twitter": "Metavision Group",
+    "steamCommunity": "Página del juego en Roblox",
+    "steamStore": "Jugar en Roblox",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
     "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyright": "© 2026 Superstar Baseball Wiki. No afiliado con Roblox ni Metavision.",
+    "disclaimer": "Sitio web de recursos no oficial hecho por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
+    "guide": {
+      "title": "Guía de Superstar Baseball",
+      "description": "Guía completa de nivel principiante a avanzado para Superstar Baseball. Aprende controles, mecánicas de bateo, estrategias de lanzamiento y técnicas de fildeo.",
+      "metaTitle": "Guía de Superstar Baseball - Consejos de principiante a avanzado",
+      "metaDescription": "Domina Superstar Baseball con nuestra guía completa que cubre controles, swings de contacto y de poder, mecánicas de lanzamiento y estrategias de fildeo.",
       "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+      "whatIs": "¿Qué es la Guía de Superstar Baseball?",
+      "whatIsDescription": "La Guía de Superstar Baseball cubre cada mecánica principal del juego, desde los controles básicos y tipos de swing hasta arsenales de lanzamiento avanzados y posicionamiento en el fildeo. Ya sea que estés comenzando o busques subir en la tabla de clasificación competitiva, esta guía te tiene cubierto.",
+      "why": "¿Por qué leer la Guía de Superstar Baseball?",
       "whySteps": {
         "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Description": "Comprende los swings de contacto y de poder, las ventanas de tiempo y los fundamentos de la selección de lanzamientos",
+        "step2Title": "Progresa más rápido",
+        "step2Description": "Sigue estrategias probadas para desbloquear mejores estilos y ganar partidos de manera más consistente",
+        "step3Title": "Domina tácticas avanzadas",
+        "step3Description": "Desarrolla habilidades de lanzamiento, bateo y fildeo de nivel élite para el juego competitivo"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "featured": "Guías destacadas",
+      "all": "Todas las guías de Superstar Baseball"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "batting": {
+      "title": "Bateo en Superstar Baseball",
+      "description": "Domina el bateo en Superstar Baseball con guías sobre swings de contacto, swings de poder, técnicas de jonrones y estrategias de bateo.",
+      "metaTitle": "Guía de bateo de Superstar Baseball - Jonrones y swings de poder",
+      "metaDescription": "Aprende a batear en Superstar Baseball. Domina los swings de contacto, los swings de poder y las técnicas de jonrones con nuestra guía de bateo completa.",
+      "categoryLabel": "BATEO",
+      "whatIs": "¿Qué es el bateo en Superstar Baseball?",
+      "whatIsDescription": "El bateo en Superstar Baseball es el lado ofensivo del juego donde te enfrentas a lanzamientos usando swings de contacto o de poder. Sincronizar tus golpes correctamente determina si obtienes un hit, un jonrón o un ponche.",
+      "why": "¿Por qué dominar el bateo en Superstar Baseball?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Anota más carreras",
+        "step1Description": "Mejores mecánicas de bateo conducen a más hits, extrabases y jonrones",
+        "step2Title": "Lee mejor los lanzamientos",
+        "step2Description": "Aprende a identificar tipos de lanzamientos y batea en el momento adecuado para un contacto máximo",
+        "step3Title": "Conecta jonrones",
+        "step3Description": "Comprende la mecánica del swing de poder para sacar la bola del parque de manera consistente"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Guías de bateo destacadas",
+      "all": "Todas las guías de bateo de Superstar Baseball"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "pitching": {
+      "title": "Lanzamiento en Superstar Baseball",
+      "description": "Domina el lanzamiento en Superstar Baseball con guías sobre todos los tipos de lanzamientos, técnicas de control y estrategias para ponchar a los bateadores.",
+      "metaTitle": "Guía de lanzamiento de Superstar Baseball - Todos los lanzamientos y estrategias",
+      "metaDescription": "Aprende cada lanzamiento en Superstar Baseball. Domina las rectas, curvas y lanzamientos de cambio con nuestra guía completa de lanzamiento.",
+      "categoryLabel": "LANZAMIENTO",
+      "whatIs": "¿Qué es el lanzamiento en Superstar Baseball?",
+      "whatIsDescription": "El lanzamiento en Superstar Baseball te permite controlar la defensa de tu equipo lanzando varios tipos de lanzamientos para engañar a los bateadores. Dominar la ubicación del lanzamiento, la variación de velocidad y la secuencia es clave para mantener a los oponentes fuera de balance.",
+      "why": "¿Por qué dominar el lanzamiento en Superstar Baseball?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Controla el juego",
+        "step1Description": "Como lanzador, tú dictas el ritmo y puedes anular incluso a los mejores bateadores",
+        "step2Title": "Mezcla tus lanzamientos",
+        "step2Description": "Usa rectas, curvas y cambios para mantener a los bateadores adivinando en cada turno al bate",
+        "step3Title": "Gana más partidos",
+        "step3Description": "Un lanzamiento sólido es la base de todo equipo campeón en Superstar Baseball"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Guías de lanzamiento destacadas",
+      "all": "Todas las guías de lanzamiento de Superstar Baseball"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "fielding": {
+      "title": "Fildeo en Superstar Baseball",
+      "description": "Mejora tu fildeo en Superstar Baseball con guías sobre cobertura, técnicas de elevado y estrategias de posicionamiento defensivo.",
+      "metaTitle": "Guía de fildeo de Superstar Baseball - Consejos de cobertura y elevados",
+      "metaDescription": "Domina el fildeo en Superstar Baseball. Aprende mecánicas de cobertura, cómo atrapar elevados y posicionamiento defensivo para detener carreras.",
+      "categoryLabel": "FILDEO",
+      "whatIs": "¿Qué es el fildeo en Superstar Baseball?",
+      "whatIsDescription": "El fildeo en Superstar Baseball es la mitad defensiva del juego donde posicionas a tus jugadores para atrapar pelotas y evitar que el equipo contrario anote. La cobertura adecuada y el tiempo de reacción son esenciales para detener a los bateadores poderosos.",
+      "why": "¿Por qué mejorar el fildeo en Superstar Baseball?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Evita carreras",
+        "step1Description": "Un fildeo sólido evita que los oponentes anoten y le da a tu equipo la oportunidad de ganar",
+        "step2Title": "Domina los elevados",
+        "step2Description": "Aprende el tiempo y el posicionamiento necesarios para atrapar elevados profundos y obtener outs fáciles",
+        "step3Title": "Cubre más terreno",
+        "step3Description": "Entiende las zonas de cobertura para cortar batazos y retirar a los corredores de base"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Guías de fildeo destacadas",
+      "all": "Todas las guías de fildeo de Superstar Baseball"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "styles": {
+      "title": "Estilos de Superstar Baseball",
+      "description": "Explora todos los estilos de Superstar Baseball con listas de niveles, guías de rareza y las mejores selecciones ofensivas y defensivas para cada estilo de juego.",
+      "metaTitle": "Estilos de Superstar Baseball - Lista de niveles y mejores selecciones",
+      "metaDescription": "Encuentra los mejores estilos de Superstar Baseball con nuestra lista de niveles. Compara estilos ofensivos y defensivos, probabilidades de rareza y aprende cuáles conservar.",
+      "categoryLabel": "ESTILOS",
+      "whatIs": "¿Qué son los estilos de Superstar Baseball?",
+      "whatIsDescription": "Los estilos de Superstar Baseball son habilidades especiales obtenidas a través del sistema de Giros que mejoran tu rendimiento al batear, lanzar y fildear. Cada estilo tiene una rareza y un efecto únicos, que van desde Poco Común hasta Legendario.",
+      "why": "¿Por qué usar guías de estilos para Superstar Baseball?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Encuentra los mejores estilos",
+        "step1Description": "Usa nuestra lista de niveles para saber qué estilos dan la mayor ventaja en los partidos",
+        "step2Title": "Gasta los Giros sabiamente",
+        "step2Description": "Entiende las probabilidades de rareza antes de usar tus Giros de la Suerte para obtener el mejor valor",
+        "step3Title": "Construye un equipo ganador",
+        "step3Description": "Combina los mejores estilos ofensivos y defensivos para dominar cada partido"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Guías de estilos destacadas",
+      "all": "Todas las guías de estilos de Superstar Baseball"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "spins": {
+      "title": "Giros de Superstar Baseball",
+      "description": "Aprende cómo usar los Giros de la Suerte en Superstar Baseball, incluyendo cómo obtener más giros, mecánicas de la ruleta y las mejores estrategias para maximizar tus recompensas.",
+      "metaTitle": "Giros de Superstar Baseball - Guía de Giros de la Suerte y Ruleta",
+      "metaDescription": "Domina el sistema de giros de Superstar Baseball. Aprende cómo obtener Giros de la Suerte, usar la ruleta y maximizar tus desbloqueos de estilos.",
+      "categoryLabel": "GIROS",
+      "whatIs": "¿Qué son los giros de Superstar Baseball?",
+      "whatIsDescription": "Los giros de Superstar Baseball son la forma principal de desbloquear nuevos estilos en el juego. Ganas Giros regulares a través del juego y puedes encontrar Giros de la Suerte en fuentes especiales. Cada giro te da un estilo aleatorio basado en las probabilidades de rareza.",
+      "why": "¿Por qué aprender sobre los giros de Superstar Baseball?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Obtén más giros",
+        "step1Description": "Descubre todas las formas de ganar Giros de la Suerte gratuitos y Giros regulares sin gastar",
+        "step2Title": "Entiende las probabilidades de rareza",
+        "step2Description": "Conoce tus posibilidades de obtener un estilo Legendario o Raro antes de comprometer tus giros",
+        "step3Title": "Maximiza las recompensas",
+        "step3Description": "Aprende el mejor momento y las estrategias para aprovechar al máximo cada giro de ruleta que realices"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Guías de giros destacadas",
+      "all": "Todas las guías de giros de Superstar Baseball"
+    },
+    "script": {
+      "title": "Script de Superstar Baseball",
+      "description": "Encuentra scripts de Superstar Baseball que funcionan, incluyendo scripts sin llave, herramientas de macros y guías de automatización para Roblox.",
+      "metaTitle": "Script de Superstar Baseball - Scripts sin llave y macros",
+      "metaDescription": "Explora scripts de Superstar Baseball, incluyendo opciones sin llave y herramientas de macros. Obtén guías sobre cómo usar la automatización en Superstar Baseball.",
+      "categoryLabel": "SCRIPTS",
+      "whatIs": "¿Qué es un script de Superstar Baseball?",
+      "whatIsDescription": "Un script de Superstar Baseball es una herramienta de automatización de Roblox que puede ayudar con tareas repetitivas dentro del juego. Los scripts varían desde macros simples hasta automatizaciones más complejas. Usa siempre los scripts de manera responsable y de acuerdo con las reglas del juego.",
+      "why": "¿Por qué buscar scripts de Superstar Baseball?",
+      "whySteps": {
+        "step1Title": "Encuentra scripts que funcionen",
+        "step1Description": "Obtén enlaces a scripts que realmente funcionan, incluyendo opciones sin llave",
+        "step2Title": "Ahorra tiempo de farmeo",
+        "step2Description": "Usa macros para automatizar tareas repetitivas y progresar más rápido en el juego",
+        "step3Title": "Mantente seguro",
+        "step3Description": "Aprende qué scripts son seguros de usar y cómo evitar ser baneado"
+      },
+      "featured": "Guías de scripts destacadas",
+      "all": "Todas las guías de scripts de Superstar Baseball"
     }
   }
 }
