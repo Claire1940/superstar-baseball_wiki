@@ -14,6 +14,7 @@ import {
   Gift,
   MessageCircle,
   RefreshCw,
+  Shield,
   Sparkles,
   Star,
   Table2,
@@ -876,39 +877,50 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="get-more-spins" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] text-sm font-medium text-[hsl(var(--nav-theme-light))] mb-4">
+              <RefreshCw className="w-3.5 h-3.5" />
+              {t.modules.superstarBaseballHowToGetMoreSpins.eyebrow}
+            </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle linkData={moduleLinkMap['superstarBaseballHowToGetMoreSpins']} locale={locale}>
                 {t.modules.superstarBaseballHowToGetMoreSpins.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto mb-3">
+              {t.modules.superstarBaseballHowToGetMoreSpins.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-3xl mx-auto">
               {t.modules.superstarBaseballHowToGetMoreSpins.intro}
             </p>
           </div>
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.superstarBaseballHowToGetMoreSpins.items.map((item: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
-                  <RefreshCw className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`superstarBaseballHowToGetMoreSpins::items::${index}`]} locale={locale}>
-                      {item.label}
-                    </LinkedTitle>
-                  </h3>
+            {t.modules.superstarBaseballHowToGetMoreSpins.items.map((item: any, index: number) => {
+              const spinIcons = [Gift, Sparkles, Gamepad2, TrendingUp, Clock, Target]
+              const SpinIcon = spinIcons[index] || ArrowRight
+              return (
+                <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <div className="flex items-center gap-2 mb-3">
+                    <SpinIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <h3 className="font-bold">
+                      <LinkedTitle linkData={moduleLinkMap[`superstarBaseballHowToGetMoreSpins::items::${index}`]} locale={locale}>
+                        {item.label}
+                      </LinkedTitle>
+                    </h3>
+                  </div>
+                  {item.details && item.details.length > 0 && (
+                    <ul className="space-y-1">
+                      {item.details.map((detail: string, di: number) => (
+                        <li key={di} className="flex items-start gap-2">
+                          <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                          <span className="text-muted-foreground text-sm">{detail}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                 </div>
-                {item.details && item.details.length > 0 && (
-                  <ul className="space-y-1">
-                    {item.details.map((detail: string, di: number) => (
-                      <li key={di} className="flex items-start gap-2">
-                        <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
-                        <span className="text-muted-foreground text-sm">{detail}</span>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
-            ))}
+              )
+            })}
           </div>
         </div>
       </section>
@@ -917,15 +929,19 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="coins-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <Wallet className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
-              <h2 className="text-4xl md:text-5xl font-bold">
-                <LinkedTitle linkData={moduleLinkMap['superstarBaseballCoinsGuide']} locale={locale}>
-                  {t.modules.superstarBaseballCoinsGuide.title}
-                </LinkedTitle>
-              </h2>
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] text-sm font-medium text-[hsl(var(--nav-theme-light))] mb-4">
+              <Wallet className="w-3.5 h-3.5" />
+              {t.modules.superstarBaseballCoinsGuide.eyebrow}
             </div>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['superstarBaseballCoinsGuide']} locale={locale}>
+                {t.modules.superstarBaseballCoinsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto mb-3">
+              {t.modules.superstarBaseballCoinsGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-3xl mx-auto">
               {t.modules.superstarBaseballCoinsGuide.intro}
             </p>
           </div>
@@ -959,42 +975,56 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="gamepasses" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] text-sm font-medium text-[hsl(var(--nav-theme-light))] mb-4">
+              <Star className="w-3.5 h-3.5" />
+              {t.modules.superstarBaseballGamepasses.eyebrow}
+            </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle linkData={moduleLinkMap['superstarBaseballGamepasses']} locale={locale}>
                 {t.modules.superstarBaseballGamepasses.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto mb-3">
+              {t.modules.superstarBaseballGamepasses.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-3xl mx-auto">
               {t.modules.superstarBaseballGamepasses.intro}
             </p>
           </div>
 
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-6">
-            {t.modules.superstarBaseballGamepasses.passes.map((pass: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-start justify-between mb-3">
-                  <h3 className="font-bold text-lg">
-                    <LinkedTitle linkData={moduleLinkMap[`superstarBaseballGamepasses::passes::${index}`]} locale={locale}>
-                      {pass.name}
-                    </LinkedTitle>
-                  </h3>
-                  <span className="flex-shrink-0 ml-3 px-3 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] text-sm font-bold text-[hsl(var(--nav-theme-light))]">
-                    {pass.priceRobux}
-                  </span>
+            {t.modules.superstarBaseballGamepasses.passes.map((pass: any, index: number) => {
+              const passIcons = [Trophy, Shield]
+              const PassIcon = passIcons[index] || Zap
+              return (
+                <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <div className="flex items-start justify-between mb-3">
+                    <div className="flex items-center gap-2">
+                      <PassIcon className="w-6 h-6 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                      <h3 className="font-bold text-lg">
+                        <LinkedTitle linkData={moduleLinkMap[`superstarBaseballGamepasses::passes::${index}`]} locale={locale}>
+                          {pass.name}
+                        </LinkedTitle>
+                      </h3>
+                    </div>
+                    <span className="flex-shrink-0 ml-3 px-3 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] text-sm font-bold text-[hsl(var(--nav-theme-light))]">
+                      R${pass.priceRobux}
+                    </span>
+                  </div>
+                  <p className="text-muted-foreground text-sm mb-3">{pass.bestFor}</p>
+                  {pass.perks && pass.perks.length > 0 && (
+                    <ul className="space-y-1">
+                      {pass.perks.map((perk: string, pi: number) => (
+                        <li key={pi} className="flex items-start gap-2">
+                          <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                          <span className="text-muted-foreground text-sm">{perk}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                 </div>
-                <p className="text-muted-foreground text-sm mb-3">{pass.bestFor}</p>
-                {pass.perks && pass.perks.length > 0 && (
-                  <ul className="space-y-1">
-                    {pass.perks.map((perk: string, pi: number) => (
-                      <li key={pi} className="flex items-start gap-2">
-                        <Star className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
-                        <span className="text-muted-foreground text-sm">{perk}</span>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
-            ))}
+              )
+            })}
           </div>
         </div>
       </section>
@@ -1003,12 +1033,19 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
       <section id="updates" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)] text-sm font-medium text-[hsl(var(--nav-theme-light))] mb-4">
+              <Sparkles className="w-3.5 h-3.5" />
+              {t.modules.superstarBaseballUpdates.eyebrow}
+            </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle linkData={moduleLinkMap['superstarBaseballUpdates']} locale={locale}>
                 {t.modules.superstarBaseballUpdates.title}
               </LinkedTitle>
             </h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto mb-3">
+              {t.modules.superstarBaseballUpdates.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-3xl mx-auto">
               {t.modules.superstarBaseballUpdates.intro}
             </p>
           </div>
