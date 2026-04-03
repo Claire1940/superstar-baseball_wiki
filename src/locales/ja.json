@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "ガイド",
-    "crafting": "クラフト",
-    "items": "アイテム",
-    "biomes": "バイオーム",
-    "building": "建築",
-    "support": "サポート"
+    "guide": "Superstar Baseballガイド",
+    "batting": "Superstar Baseballバッティング",
+    "pitching": "Superstar Baseballピッチング",
+    "fielding": "Superstar Baseballフィールディング",
+    "styles": "Superstar Baseballスタイル",
+    "spins": "Superstar Baseballスピン",
+    "script": "Superstar Baseballスクリプト"
   },
   "common": {
     "home": "ホーム",

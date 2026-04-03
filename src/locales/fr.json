@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guides",
-    "crafting": "Fabrication",
-    "items": "Objets",
-    "biomes": "Biomes",
-    "building": "Construction",
-    "support": "Support"
+    "guide": "Guide Superstar Baseball",
+    "batting": "Frapper dans Superstar Baseball",
+    "pitching": "Lancer dans Superstar Baseball",
+    "fielding": "Défense dans Superstar Baseball",
+    "styles": "Styles Superstar Baseball",
+    "spins": "Tours de Superstar Baseball",
+    "script": "Scripts Superstar Baseball"
   },
   "common": {
     "home": "Accueil",

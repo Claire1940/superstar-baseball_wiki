@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "guide": "Superstar Baseball Rehberi",
+    "batting": "Superstar Baseball Vuruş",
+    "pitching": "Superstar Baseball Atış",
+    "fielding": "Superstar Baseball Savunma",
+    "styles": "Superstar Baseball Stilleri",
+    "spins": "Superstar Baseball Döndürme",
+    "script": "Superstar Baseball Scriptleri"
   },
   "common": {
     "home": "Ana Sayfa",

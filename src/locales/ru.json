@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "guide": "Гайд по Superstar Baseball",
+    "batting": "Отбивание в Superstar Baseball",
+    "pitching": "Подача в Superstar Baseball",
+    "fielding": "Защита в Superstar Baseball",
+    "styles": "Стили Superstar Baseball",
+    "spins": "Спины в Superstar Baseball",
+    "script": "Скрипты Superstar Baseball"
   },
   "common": {
     "home": "Главная",
