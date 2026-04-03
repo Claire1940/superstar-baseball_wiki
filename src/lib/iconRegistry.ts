@@ -28,6 +28,14 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Superstar Baseball 专用图标
+  Gift: LucideIcons.Gift,
+  Trophy: LucideIcons.Trophy,
+  Zap: LucideIcons.Zap,
+  Target: LucideIcons.Target,
+  RefreshCw: LucideIcons.RefreshCw,
+  Wallet: LucideIcons.Wallet,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

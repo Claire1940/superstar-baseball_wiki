@@ -51,728 +51,723 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Superstar Baseball Gameplay",
+    "description": "A fast-paced 7v7 anime-inspired arcade baseball game on Roblox. Pitch, bat, and field your way to victory using styles, codes, and smart play."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Superstar Baseball",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need to master codes, styles, pitching, batting, and fielding in Superstar Baseball",
     "cards": [
       {
+        "icon": "Gift",
+        "title": "Superstar Baseball Codes",
+        "description": "Active codes for free Spins, Lucky Spins, and Coins"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Superstar Baseball Beginner Guide",
+        "description": "Core loop, first spins, and early match fundamentals"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Trophy",
+        "title": "Superstar Baseball Best Styles",
+        "description": "Spin priority and style value ranking by tier"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "icon": "Zap",
+        "title": "Superstar Baseball Offensive Styles",
+        "description": "Power, timing, and lineup-fit offensive approaches"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Superstar Baseball Defensive Styles",
+        "description": "Catch reliability, range, and throw quality tiers"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Superstar Baseball Controls",
+        "description": "Swing, pitch selection, dive, and throw inputs"
+      },
+      {
+        "icon": "Target",
+        "title": "Superstar Baseball Pitching Guide",
+        "description": "Pitch types, sequencing, and how to miss bats"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Superstar Baseball Batting Guide",
+        "description": "Timing, strike zone, and contact improvement tips"
+      },
+      {
+        "icon": "Star",
+        "title": "Superstar Baseball How to Hit Home Runs",
+        "description": "Contact zone, swing timing, and power lineup setup"
+      },
+      {
+        "icon": "Eye",
+        "title": "Superstar Baseball Fielding Guide",
+        "description": "Dive input, accurate throws, and clean outs"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Superstar Baseball Base Running Guide",
+        "description": "Patient advancement and smart extra-base decisions"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Superstar Baseball Spins Guide",
+        "description": "Spin types, odds, and when to save Lucky Spins"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Superstar Baseball How to Get More Spins",
+        "description": "Fastest spin sources from codes to match play"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Superstar Baseball Coins Guide",
+        "description": "Coin sources, code rewards, and store spending"
+      },
+      {
+        "icon": "Package",
+        "title": "Superstar Baseball Gamepasses",
+        "description": "VIP perks and Team Captain pass comparison"
+      },
+      {
+        "icon": "Clock",
+        "title": "Superstar Baseball Updates",
+        "description": "Latest update dates, code drops, and community stats"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "superstarBaseballCodes": {
+      "title": "Working Superstar Baseball Codes",
+      "eyebrow": "Free Rewards",
+      "subtitle": "Redeem codes for free Spins, Lucky Spins, and Coins. This is the fastest way to improve your first loadout without grinding matches.",
+      "intro": "Superstar Baseball codes are the clearest repeat-search intent for the game because they directly feed the Spins system that unlocks offensive and defensive styles. Open the Settings menu, scroll to the code field, paste a code exactly as written, and redeem it before it expires.",
+      "activeCodes": [
+        { "code": "DEADEYE", "reward": "5 free spins" },
+        { "code": "90KLIKES", "reward": "2 free spins" },
+        { "code": "SOFTBALL", "reward": "5 lucky spins" },
+        { "code": "SKYBOUND", "reward": "5 free spins" },
+        { "code": "BLIGHT", "reward": "5 free lucky spins" },
+        { "code": "TUTORIAL", "reward": "3 free lucky spins" },
+        { "code": "SUPERSTAR", "reward": "100 coins" }
+      ],
+      "expiredCodes": [
+        "METRO", "80KLIKES", "70KLIKES", "60KLIKES", "50KLIKES"
+      ],
+      "redeemSteps": [
+        "Open Superstar Baseball on Roblox",
+        "Tap the Settings gear icon in the lower-left menu",
+        "Scroll to the bottom of the settings panel",
+        "Paste the code exactly as shown — codes are case-sensitive",
+        "Press Redeem to claim your free reward"
+      ]
+    },
+    "superstarBaseballBeginnerGuide": {
+      "title": "How to Start Strong in Superstar Baseball",
+      "eyebrow": "Starter Guide",
+      "subtitle": "Learn the core loop, the three roles, and the first decisions that matter most. New players get more value from early codes and clean fundamentals than from random grinding.",
+      "intro": "Superstar Baseball is a 7v7 Roblox arcade baseball game where you pitch, bat, and field in fast matches. The smartest early-game path is simple: redeem codes first, use your opening spins, learn the strike zone, and build around the best pull you get instead of spreading resources everywhere.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Redeem codes before your first real session",
+          "description": "Codes give free Spins, Lucky Spins, and Coins, which immediately speed up your first build."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Use your opening four free spins",
+          "description": "New accounts start with four free spins to roll one offensive style and one defensive style."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Understand your three jobs on the field",
+          "description": "You can play as Batter, Pitcher, or Fielder, and every role matters in a 7v7 match."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Learn the four pitch types early",
+          "description": "Pitchers use Curveball, Sinker, Slider, and Fastball, each with different speed and movement."
+        },
+        {
+          "title": "Stop swinging at everything",
+          "description": "The strike zone is tighter than it looks. Waiting for a real hittable pitch is more effective than spam swinging."
+        },
+        {
+          "title": "Time swings late rather than early",
+          "description": "Early swings produce more bad contact, while late timing is more forgiving as you learn the release."
+        },
+        {
+          "title": "Save Lucky Spins for upgrades that matter",
+          "description": "Lucky Spins have better odds than regular Spins, so use them when you want a stronger roster jump."
+        },
+        {
+          "title": "Place your best hitter and pitcher in high-impact spots",
+          "description": "Build around your best pull, bat your strongest hitter in the 3rd or 4th slot, and start your best pitcher in important games."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "You earn one free spin every 30 minutes of play — stay consistent.",
+        "Lucky Spins have published odds of 0.5% Legendary, 2% Epic, 35% Rare, and 62.5% Uncommon.",
+        "A walk puts you on base just like a hit — do not chase every pitch.",
+        "Coordinated 7v7 teams win more consistently than solo-queue groups that don't communicate."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+    "superstarBaseballBestStyles": {
+      "title": "What to Prioritize When Chasing the Best Styles",
+      "eyebrow": "Meta Priorities",
+      "subtitle": "The strongest practical meta page is a priority grid showing what players should keep, chase, and spend on first.",
+      "intro": "For Superstar Baseball, the most reliable public data around styles is how you obtain them and how to evaluate the value of a pull. Lucky Spins improve your odds of rarer pulls, Legendary and Epic styles are the premium chase, and the best real-world decision is usually to invest around the strongest hitter or pitcher you already rolled instead of rerolling endlessly.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Lucky Spin upgrades",
+          "summary": "Best use of premium pulls",
+          "details": [
+            "Lucky Spins have better odds than regular Spins.",
+            "Best target for players actively hunting stronger offensive or defensive upgrades.",
+            "Most efficient when used after redeeming codes and understanding what your lineup still lacks."
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Legendary and Epic results",
+          "summary": "Highest-value keepers",
+          "details": [
+            "Published rarity odds list Legendary at 0.5% and Epic at 2%.",
+            "These are the styles worth building around instead of instantly rerolling.",
+            "Put your best hitter in the 3rd or 4th slot and your best pitcher into important matches."
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Rare styles from regular grinding",
+          "summary": "Solid progression floor",
+          "details": [
+            "Rare styles sit at 35% in the published rarity breakdown.",
+            "Good enough to anchor early and mid-game play while you stockpile better spins.",
+            "Best for players who want stable value without burning every Lucky Spin immediately."
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Uncommon stopgaps",
+          "summary": "Use early, replace later",
+          "details": [
+            "Uncommon styles are the most common published result at 62.5%.",
+            "Fine for learning batting, pitching, and fielding fundamentals.",
+            "Replace these first once you land a stronger offensive or defensive upgrade."
+          ]
+        }
+      ]
+    },
+    "superstarBaseballOffensiveStyles": {
+      "title": "How to Evaluate Offensive Styles in Real Matches",
+      "eyebrow": "Batting Reference",
+      "subtitle": "Players want to know what actually translates into runs. This module ties offensive decision-making to proven batting rules, timing windows, and scoring patterns.",
+      "intro": "The most useful offensive page for Superstar Baseball is a practical reference built around how runs are actually created. Timing is the core skill, home runs are the fastest way to score, pitch recognition matters immediately, and your strongest offensive pull should shape lineup order.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "title": "Power-first offense",
+          "description": "Prioritize offensive pulls that help you convert center-high pitches into extra-base damage, because home runs are the fastest way to score.",
+          "highlights": [
+            "Best when you can already time fastballs cleanly",
+            "Works especially well in the 3rd or 4th batting slot",
+            "Punishes mistakes in the middle of the zone"
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "title": "Timing and contact offense",
+          "description": "If your swings are still inconsistent, value offensive setups that reward cleaner timing over all-out aggression.",
+          "highlights": [
+            "Late contact is safer than early flailing",
+            "Useful for new players learning the release window",
+            "Turns more at-bats into playable contact"
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "title": "Pitch-reading offense",
+          "description": "The best offensive decisions start before the swing. Fastballs arrive straight and fast, while curves need a slight delay.",
+          "highlights": [
+            "Swing earlier on fastballs",
+            "Wait longer on breaking pitches",
+            "Reading the pitch in the first half-second creates better contact"
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
+          "title": "Patient plate approach",
+          "description": "Not every offensive situation should end with a swing. Walks still create base runners and force weak pitchers to challenge the zone.",
+          "highlights": [
+            "Do not chase every pitch",
+            "Useful against pitchers who miss the zone",
+            "Pairs well with lineup spots that need steady on-base pressure"
           ]
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "title": "Lineup-fit offense",
+          "description": "A strong offensive pull becomes more valuable when it is used in the right lineup slot instead of being buried randomly.",
+          "highlights": [
+            "Place your best hitter 3rd or 4th",
+            "Let weaker bats support rather than carry run production",
+            "Build the order around your strongest pull"
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "superstarBaseballDefensiveStyles": {
+      "title": "Superstar Baseball Defensive Styles",
+      "eyebrow": "Defense Meta",
+      "subtitle": "Defense is easiest to undervalue when most players focus on batting first. Good defensive style choices help you secure cleaner catches, faster outs, and fewer extra bases allowed.",
+      "intro": "Superstar Baseball starts players with one offensive style and one defensive style from spins, and defensive impact shows up most clearly in catching reliability, throw quality, positioning, and run prevention.",
+      "tiers": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "tier": "S",
+          "label": "Reliable Catch + Fast Throw",
+          "summary": "Best all-around defensive priority",
+          "details": [
+            "The strongest defensive outcomes come from securing playable balls and turning them into quick outs.",
+            "Best for outfield recovery and stopping doubles from becoming triples.",
+            "Most valuable in pressure plays with runners on base."
+          ]
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "tier": "A",
+          "label": "Range + Positioning",
+          "summary": "High-value support defense",
+          "details": [
+            "Getting to the ball earlier reduces panic throws and gives the defense more time to make the correct play.",
+            "Useful for covering gaps and cutting off line drives.",
+            "Helps back up teammates on shallow flies and awkward bounces."
+          ]
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "tier": "B",
+          "label": "Pure Arm Strength",
+          "summary": "Useful but more situational",
+          "details": [
+            "A strong arm helps after the catch, but does less on its own if your team is late to the ball.",
+            "Best for long throws from the outfield and force plays at home.",
+            "More impactful when paired with reliable catching fundamentals."
+          ]
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "tier": "C",
+          "label": "Low-Impact Utility Defense",
+          "summary": "Playable but not a priority target",
+          "details": [
+            "Defensive value drops when a setup does not clearly improve catch consistency or throw speed.",
+            "Fine for casual play or early roster depth.",
+            "Replace these first once you land a better defensive upgrade."
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "superstarBaseballControls": {
+      "title": "Superstar Baseball Controls",
+      "eyebrow": "Controls",
+      "subtitle": "Most new players lose early games because they do not know the key inputs fast enough. This page gives a quick-reference control list for batting, pitching, and fielding on PC.",
+      "intro": "Superstar Baseball splits gameplay into batter, pitcher, and fielder roles. The most important confirmed PC inputs are swing, pitch selection, dive, and throw, with pitch selection mapped to number keys and defensive throws requiring aim toward a teammate.",
+      "rows": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "role": "Batter",
+          "action": "Swing",
+          "input": "Left mouse click",
+          "notes": "Use to make contact at the plate."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "role": "Pitcher",
+          "action": "Select pitch type",
+          "input": "Number keys 1–4",
+          "notes": "1 = Curveball, 2 = Sinker, 3 = Slider, 4 = Fastball."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "role": "Fielder",
+          "action": "Dive",
+          "input": "E",
+          "notes": "Use for catch attempts and emergency reach plays."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "role": "Fielder",
+          "action": "Throw ball",
+          "input": "Left mouse click",
+          "notes": "After catching the ball, aim the green arrow toward the target teammate."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "role": "Menu",
+          "action": "Open code redemption",
+          "input": "Settings menu",
+          "notes": "Open Settings, scroll down, and enter a reward code."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "superstarBaseballPitchingGuide": {
+      "title": "Superstar Baseball Pitching Guide",
+      "eyebrow": "Pitching",
+      "subtitle": "Pitching becomes the first real skill check once players understand the controls. Winning more often comes from mixing speed, movement, and location instead of repeating the same throw.",
+      "intro": "The game currently has four confirmed pitch types: Curveball at 65-85 mph, Sinker at 70-90 mph, Slider at 75-90 mph, and Fastball at 80-100 mph. The best practical approach is to use each pitch for a different purpose and sequence them so the batter cannot lock into one timing window.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Learn what each pitch is trying to do",
+          "description": "Fastball wins with speed, Curveball changes eye level and movement, Slider adds sharper late break, and Sinker is useful for weaker contact and ground-ball pressure."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Start with speed, then break timing",
+          "description": "A common sequence is hard pitch first, then a slower or moving pitch. Fastball inside followed by Curveball outside makes batters commit early."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Use Sinker when you want softer contact",
+          "description": "Sinkers drop and are especially useful when you want hitters to roll over the ball instead of driving it cleanly."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Avoid repeating the same pattern",
+          "description": "Throwing the same pitch in the same situation makes the at-bat easier to read. Rotate locations and avoid becoming predictable in full counts."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Build a simple three-pitch plan",
+          "description": "A strong basic pattern is Fastball inside, Curveball outside, then a lower off-speed or breaking look. The goal is three uncomfortable decisions in a row."
+        }
+      ],
+      "pitchReference": [
+        { "name": "Curveball", "speed": "65–85 mph", "use": "Eye level change and late movement" },
+        { "name": "Sinker", "speed": "70–90 mph", "use": "Ground-ball pressure and soft contact" },
+        { "name": "Slider", "speed": "75–90 mph", "use": "Sharp late horizontal break" },
+        { "name": "Fastball", "speed": "80–100 mph", "use": "Speed advantage and timing disruption" }
+      ]
+    },
+    "superstarBaseballBattingGuide": {
+      "title": "Superstar Baseball Batting Guide",
+      "eyebrow": "Batting",
+      "subtitle": "Batting looks simple at first, but timing and swing discipline separate weak contact from real scoring pressure.",
+      "intro": "The batting window in Superstar Baseball is tight, and timing is the core mechanic to master. A strong baseline is to watch the ball out of the pitcher's hand, avoid panic swings, and look for center to upper-zone contact when trying to drive the ball for extra bases.",
+      "steps": [
+        {
+          "title": "Learn the strike zone before chasing power",
+          "description": "The strike zone plays smaller than many new players expect, so patient at-bats create better swing opportunities than constant early swings."
+        },
+        {
+          "title": "Start your swing around the halfway point",
+          "description": "A practical timing cue is to begin the swing when the ball is about halfway to the plate. Too early often leads to foul contact, and too late leads to whiffs or weak grounders."
+        },
+        {
+          "title": "Stop spam swinging",
+          "description": "Repeated panic swings make it easier for pitchers to beat you with movement or speed changes. Let borderline pitches go and force a better ball into your zone."
+        },
+        {
+          "title": "Hunt center-high contact for power",
+          "description": "When players want more home-run or extra-base threat, center-high zone contact is the most useful target area to practice."
+        },
+        {
+          "title": "Read the pitcher, not just the ball",
+          "description": "Pitchers fall into habits. If you notice repeated fastballs in pressure spots or the same breaking pitch after a strike, sit on that pattern and punish it."
+        }
+      ]
+    },
+    "superstarBaseballHowToHitHomeRuns": {
+      "title": "How to Hit More Home Runs in Superstar Baseball",
+      "eyebrow": "Batting Guide",
+      "subtitle": "The cleanest power comes from pitch selection, contact height, and timing at the plate. This guide turns the game's batting tips into a repeatable home run routine.",
+      "intro": "The most reliable power advice across current guides is consistent: wait for a hittable pitch, attack the center-high part of the zone, and connect as the ball reaches the plate. If you keep producing weak grounders, your contact point is too low or too late.",
+      "steps": [
+        {
+          "title": "Wait for a hittable pitch",
+          "description": "Do not swing at everything. Current guides stress that patience wins at-bats, and a walk still gets you on base."
+        },
+        {
+          "title": "Hunt the center-high zone",
+          "description": "The best current home run tip is to attack pitches in the center-high part of the strike zone because that gives you the best launch angle for deep contact."
+        },
+        {
+          "title": "Swing as the ball reaches the plate",
+          "description": "Timing matters more than swing spam. The recommended contact window is right as the ball arrives at the plate, not early."
+        },
+        {
+          "title": "Use bad contact as feedback",
+          "description": "If you keep hitting grounders, adjust upward or later. Weak ground balls are tied to low contact or late timing."
+        },
+        {
+          "title": "Build around your best hitter",
+          "description": "When you roll a strong offensive character or style, make that bat the center of your lineup. Put your best hitter in the 3rd or 4th slot for maximum RBI chances."
+        }
+      ]
+    },
+    "superstarBaseballFieldingGuide": {
+      "title": "Fielding Fundamentals That Save Runs",
+      "eyebrow": "Defense Guide",
+      "subtitle": "Clean positioning, accurate throws, and disciplined use of the dive input separate solid teams from chaotic ones.",
+      "intro": "The core defensive role in Superstar Baseball is straightforward: fielders catch the ball and make accurate throws to get runners out. Start with reliable outs first, then layer in faster reactions and better team coordination.",
+      "items": [
+        {
+          "title": "Know the fielder's job",
+          "description": "Your defensive role is to catch the ball and make accurate throws to retire runners."
+        },
+        {
+          "title": "Use dive only when the play demands it",
+          "description": "The Dive key is on E. Treat it as a recovery tool for hard-hit balls and low catches, not your default fielding input."
+        },
+        {
+          "title": "Aim every throw",
+          "description": "After a catch, throw with left click and line up the green arrow with your target teammate for a cleaner relay."
+        },
+        {
+          "title": "Protect the easy out first",
+          "description": "A simple, on-target out is worth more than a rushed highlight attempt. Reliable throws keep innings under control."
+        },
+        {
+          "title": "Communicate on team defense",
+          "description": "Current strategy coverage says coordinated teams win more often, especially on defense."
+        },
+        {
+          "title": "Invest in fielding-impact upgrades before cosmetics",
+          "description": "Spend coins on upgrades that improve win rate first, including stronger fielding support, before cosmetic purchases."
+        }
+      ]
+    },
+    "superstarBaseballBaseRunningGuide": {
+      "title": "Base Running Basics for New Superstar Baseball Players",
+      "eyebrow": "Base Running",
+      "subtitle": "Good base running starts before you leave the bag. Patience, clean reads, and smart aggression create more runs than constant forcing.",
+      "intro": "The available game coverage points to a clear practical approach: get on base through patient at-bats, respect how quickly defenders can convert outs, and push extra bases when the play is clearly in your favor.",
+      "steps": [
+        {
+          "title": "Create runners with patience first",
+          "description": "You do not have to swing at every pitch. Current batting guidance specifically calls out that a walk puts you on base just like a hit."
+        },
+        {
+          "title": "Read the ball before forcing extra bases",
+          "description": "The safest early habit is to confirm clean contact and defensive positioning before committing to extra advancement."
+        },
+        {
+          "title": "Let speed-oriented playstyles matter",
+          "description": "Superstar Baseball playstyles improve batting, pitching, and base running, so runner value is part of progression."
+        },
+        {
+          "title": "Push harder when your team is coordinated",
+          "description": "Coordinated groups control the field better than solo play. Aggressive advancement is safer when teammates are reading the play together."
+        },
+        {
+          "title": "Protect close-game outs",
+          "description": "New players lose tight games by giving away easy outs on the bases. Favor clean advancement over low-percentage gambles until you know the pace of the match."
+        }
+      ]
+    },
+    "superstarBaseballSpinsGuide": {
+      "title": "How Spins Work in Superstar Baseball",
+      "eyebrow": "Progression System",
+      "subtitle": "Spins are the core progression loop for styles, characters, gear, and cosmetics. Knowing which spin to use now and which one to save gives you better value immediately.",
+      "intro": "Superstar Baseball starts new players with free spins and ties long-term progression to the Spins system. Lucky Spins are the better resource for stronger pulls, and Style Spins are for cosmetics rather than gameplay power.",
+      "faqs": [
+        {
+          "question": "What spin types are confirmed right now?",
+          "answer": "Current guide coverage confirms three main categories: Spins (basic roll currency), Lucky Spins (better odds for rarer rewards), and Style Spins (cosmetic unlocks only)."
+        },
+        {
+          "question": "What should I spend first?",
+          "answer": "Use regular Spins freely because they are the easiest to replace through play and codes. Save Lucky Spins for moments when you want a better shot at stronger characters or gear."
+        },
+        {
+          "question": "What do new players get at the start?",
+          "answer": "You begin with four free spins to roll one offensive style and one defensive style. You also receive one free spin every 30 minutes of play."
+        },
+        {
+          "question": "What are the currently published style odds?",
+          "answer": "The current beginner guide lists Lucky Odds as: Legendary 0.5%, Epic 2%, Rare 35%, and Uncommon 62.5%."
+        },
+        {
+          "question": "What is the fastest way to get more Spins?",
+          "answer": "Codes are the fastest source right now. Active codes include DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL, and SUPERSTAR, with rewards that include free Spins, Lucky Spins, and Coins."
+        },
+        {
+          "question": "Where do I redeem codes?",
+          "answer": "Open Superstar Baseball, tap the Settings gear, scroll to the bottom of the settings menu, enter the reward code, and press Redeem. Codes are case-sensitive."
+        }
+      ]
+    },
+    "superstarBaseballHowToGetMoreSpins": {
+      "title": "How to Get More Spins in Superstar Baseball",
+      "eyebrow": "Spin Farming",
+      "subtitle": "Spins are the fastest way to improve your loadout because they unlock new Offensive and Defensive Styles. The quickest gains come from stacking codes first, then adding match play and milestone progress.",
+      "intro": "If your goal is to reroll into better styles faster, start with the guaranteed sources before relying on grind. Codes are the best immediate source, while match play and milestone progress are the repeatable in-game path after that.",
+      "items": [
+        {
+          "label": "Redeem the latest active reward codes first",
+          "details": [
+            "DEADEYE — 5 Spins",
+            "90KLIKES — 2 Spins",
+            "SOFTBALL — 5 Spins",
+            "SKYBOUND — 5 Spins",
+            "BLIGHT — 5 Lucky Spins",
+            "TUTORIAL — 3 Lucky Spins",
+            "SUPERSTAR — 100 Coins"
+          ]
+        },
+        {
+          "label": "Prioritize Lucky Spins when available",
+          "details": [
+            "Lucky Spins have better odds for rarer styles.",
+            "BLIGHT and TUTORIAL are current public code sources for Lucky Spins."
+          ]
+        },
+        {
+          "label": "Play matches to keep spin income moving after codes",
+          "details": [
+            "Community guide coverage states you earn Spins through playing matches.",
+            "Solo queue is available in 7v7, so you do not need a premade team to keep farming."
+          ]
+        },
+        {
+          "label": "Push milestones for extra spin progress",
+          "details": [
+            "Milestones are an ongoing source of Spins after code redemption.",
+            "This is the main fallback once the current code batch is exhausted."
+          ]
+        },
+        {
+          "label": "Check update windows for fresh code drops",
+          "details": [
+            "Code trackers note that new codes often appear around updates.",
+            "That makes update days the best time to sweep for new free Spins."
+          ]
+        },
+        {
+          "label": "Use the in-game redeem path correctly",
+          "details": [
+            "Open Settings from the lower-left area of the screen.",
+            "Scroll to the reward code field, enter the code exactly, and press Redeem.",
+            "Codes are case-sensitive in public redemption instructions."
+          ]
+        }
+      ]
+    },
+    "superstarBaseballCoinsGuide": {
+      "title": "Superstar Baseball Coins Guide",
+      "eyebrow": "Currency",
+      "subtitle": "Coins are the main currency tied to store spending and early account value. Code rewards are the easiest no-cost way to start building a coin balance.",
+      "intro": "For practical progression, think of coins as your store budget: small code injections and bonuses help early, while premium perks add larger one-time value.",
+      "rows": [
+        {
+          "source": "Join Metavision bonus",
+          "reward": "500 Coins",
+          "method": "Official Roblox experience bonus",
+          "notes": "The game page advertises a 500 COIN BONUS for joining Metavision."
+        },
+        {
+          "source": "SUPERSTAR code",
+          "reward": "100 Coins",
+          "method": "Redeem in Settings",
+          "notes": "One active public code currently gives direct coin value instead of Spins."
+        },
+        {
+          "source": "Superstars VIP gamepass",
+          "reward": "3,000 Coins",
+          "method": "One-time premium bonus",
+          "notes": "Included alongside exclusive skins and 2X XP."
+        },
+        {
+          "source": "Store spending",
+          "reward": "Uses Coins",
+          "method": "In-game purchases",
+          "notes": "Coins can be spent on purchases from the Store."
+        },
+        {
+          "source": "General progression",
+          "reward": "Main currency role",
+          "method": "Ongoing account economy",
+          "notes": "Coins are the main currency for upgrades and cosmetics."
+        }
+      ]
+    },
+    "superstarBaseballGamepasses": {
+      "title": "Superstar Baseball Gamepasses",
+      "eyebrow": "Gamepasses",
+      "subtitle": "The two tracked gamepasses serve different goals: faster account value through VIP perks, or team-control priority through Team Captain.",
+      "intro": "If you only plan to buy one pass, decide whether you want direct value or team-control priority. Superstars VIP is the stronger all-around package for players who want bonus XP, cosmetics, and a coin injection.",
+      "passes": [
+        {
+          "name": "Superstars VIP",
+          "priceRobux": 749,
+          "bestFor": "Players who want the most overall account value",
+          "perks": [
+            "Exclusive legendary Superstar Slugger bat skin",
+            "Exclusive legendary Superstar Glove skin",
+            "Exclusive epic Superstar Trail skin",
+            "2X XP boost",
+            "One-time bonus of 3,000 Coins",
+            "More perks to come"
+          ]
+        },
+        {
+          "name": "Team Captain",
+          "priceRobux": 349,
+          "bestFor": "Players who want captain priority in team selection",
+          "perks": [
+            "Automatically picked over non-pass holders to become a Team Captain"
+          ]
+        }
+      ]
+    },
+    "superstarBaseballUpdates": {
+      "title": "Superstar Baseball Updates and Current Status",
+      "eyebrow": "Live Updates",
+      "subtitle": "This page tracks the latest visible state of the game, from official update dates to current code waves and live community growth.",
+      "intro": "Superstar Baseball is still actively maintained and has a large live audience footprint across Roblox and community tracking pages. Combine official update markers with current code batches and live ecosystem stats.",
+      "entries": [
+        {
+          "date": "2026-03-31",
+          "title": "Official Roblox page shows a fresh update",
+          "description": "The Roblox experience listing currently shows the game as updated on March 31, 2026, which makes it the main official marker for the newest visible version state."
+        },
+        {
+          "date": "2026-04-01",
+          "title": "Current active code batch remains live",
+          "description": "Public code trackers confirmed the active set on April 1, 2026, including DEADEYE, 90KLIKES, SOFTBALL, SKYBOUND, BLIGHT, TUTORIAL, and SUPERSTAR."
+        },
+        {
+          "date": "2026-03",
+          "title": "Recent code era reflects ongoing milestone and themed drops",
+          "description": "The current and recently expired code pool includes milestone tags like 90KLIKES, 80KLIKES, 70KLIKES, 60KLIKES, and 50KLIKES, plus themed drops such as BLIGHT, SKYBOUND, and SOFTBALL."
+        },
+        {
+          "date": "2026-04",
+          "title": "Tracked ecosystem shows strong community scale",
+          "description": "Metavision's Roblox group is listed at 656,244 members with strong previous-day growth on Rolimon's, showing strong current community momentum around the developer."
+        },
+        {
+          "date": "Current tracked snapshot",
+          "title": "Live game footprint remains substantial",
+          "description": "Public tracking pages list release information from January 2025 and show a large ongoing player base with over 42 million total visits and tens of thousands of concurrent players."
         }
       ]
     }
+
   },
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Superstar Baseball",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "How do I redeem codes in Superstar Baseball?",
+        "answer": "Open Superstar Baseball, tap the Settings gear icon in the lower-left menu, scroll to the bottom to find the code field, paste the code exactly as shown, and press Redeem. Codes are case-sensitive."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "What are the active Superstar Baseball codes right now?",
+        "answer": "The currently active codes are DEADEYE (5 spins), 90KLIKES (2 spins), SOFTBALL (5 lucky spins), SKYBOUND (5 spins), BLIGHT (5 lucky spins), TUTORIAL (3 lucky spins), and SUPERSTAR (100 coins)."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What is the difference between Spins and Lucky Spins in Superstar Baseball?",
+        "answer": "Regular Spins are the basic roll currency. Lucky Spins have better odds for rarer styles, with published odds of 0.5% Legendary, 2% Epic, 35% Rare, and 62.5% Uncommon."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How do I get more Spins in Superstar Baseball?",
+        "answer": "Redeem active codes first for the fastest gains. After that, earn Spins by playing matches and completing milestones. You also receive one free spin every 30 minutes of play."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What are the pitch types in Superstar Baseball?",
+        "answer": "There are four confirmed pitch types: Curveball (65-85 mph, number key 1), Sinker (70-90 mph, key 2), Slider (75-90 mph, key 3), and Fastball (80-100 mph, key 4)."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How do I hit home runs in Superstar Baseball?",
+        "answer": "Wait for a hittable pitch, aim for the center-high zone, and swing as the ball reaches the plate. Weak grounders usually mean contact is too low or timing is too late. Place your best hitter in the 3rd or 4th batting slot."
       }
     ]
   },
@@ -801,124 +796,64 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "Superstar Baseball Guides",
+      "description": "Complete gameplay guides for Superstar Baseball from beginner basics to advanced batting, pitching, and fielding strategies.",
+      "metaTitle": "Superstar Baseball Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Superstar Baseball guides covering beginner tips, codes, styles, pitching, batting, fielding, controls, and advanced tactics for Roblox players.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering Superstar Baseball gameplay mechanics, style progression, pitching and batting techniques. Learn everything from first steps to advanced 7v7 strategies.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand the Spins system and avoid common beginner mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
+        "step2Description": "Follow proven paths to unlock better styles and win more matches",
         "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step3Description": "Develop advanced tactics for pitching, batting, and fielding"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "codes": {
+      "title": "Superstar Baseball Codes",
+      "description": "Working codes for free Spins, Lucky Spins, and Coins in Superstar Baseball. Updated with the latest active and expired codes.",
+      "metaTitle": "Superstar Baseball Codes - Free Spins & Coins",
+      "metaDescription": "All working Superstar Baseball codes for free Spins, Lucky Spins, and Coins. Find active codes, how to redeem them, and expired codes list.",
+      "categoryLabel": "FREE CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Superstar Baseball codes are redeemable in the Settings menu to claim free Spins, Lucky Spins, and Coins without grinding matches.",
+      "why": "Why use codes?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Get Free Spins",
+        "step1Description": "Codes give free Spins and Lucky Spins to unlock better offensive and defensive styles",
+        "step2Title": "Earn Free Coins",
+        "step2Description": "Some codes reward Coins directly for store purchases",
+        "step3Title": "Skip the Grind",
+        "step3Description": "Code rewards let you start with better styles faster than grinding alone"
       },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "featured": "Featured & Active",
+      "all": "All Codes"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "styles": {
+      "title": "Superstar Baseball Styles",
+      "description": "Offensive and defensive style rankings, rarity odds, and spin value guides for Superstar Baseball players.",
+      "metaTitle": "Superstar Baseball Styles - Best Picks & Tier Lists",
+      "metaDescription": "Superstar Baseball style tier lists covering offensive and defensive rankings, rarity odds, and the best styles to keep or chase through Spins.",
+      "categoryLabel": "STYLES",
+      "whatIs": "What are Styles?",
+      "whatIsDescription": "Styles are obtained through the Spins system and improve your batting, pitching, and fielding performance. Rarity ranges from Uncommon to Legendary.",
+      "why": "Why check style guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Know What to Keep",
+        "step1Description": "Identify which pulls are worth building around versus replacing",
+        "step2Title": "Spend Spins Wisely",
+        "step2Description": "Use Lucky Spins at the right time for better upgrade value",
+        "step3Title": "Build a Strong Roster",
+        "step3Description": "Combine offensive and defensive styles for consistent match wins"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Style Guides"
     }
   }
 }
