@@ -11,13 +11,13 @@
     }
   },
   "nav": {
-    "guide": "Guide Superstar Baseball",
-    "batting": "Batte Superstar Baseball",
-    "pitching": "Lancer Superstar Baseball",
-    "fielding": "Défense Superstar Baseball",
-    "styles": "Styles Superstar Baseball",
-    "spins": "Spins Superstar Baseball",
-    "script": "Script Superstar Baseball"
+    "guide": "Guide",
+    "batting": "Batte",
+    "pitching": "Lancer",
+    "fielding": "Défense",
+    "styles": "Styles",
+    "spins": "Spins",
+    "script": "Script"
   },
   "common": {
     "home": "Accueil",

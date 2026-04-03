@@ -11,13 +11,13 @@
     }
   },
   "nav": {
-    "guide": "Superstar Baseball Guide",
-    "batting": "Superstar Baseball Batting",
-    "pitching": "Superstar Baseball Pitching",
-    "fielding": "Superstar Baseball Fielding",
-    "styles": "Superstar Baseball Styles",
-    "spins": "Superstar Baseball Spins",
-    "script": "Superstar Baseball Script"
+    "guide": "Guide",
+    "batting": "Batting",
+    "pitching": "Pitching",
+    "fielding": "Fielding",
+    "styles": "Styles",
+    "spins": "Spins",
+    "script": "Script"
   },
   "common": {
     "home": "Home",

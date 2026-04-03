@@ -11,13 +11,13 @@
     }
   },
   "nav": {
-    "guide": "Superstar Baseball ガイド",
-    "batting": "Superstar Baseball バッティング",
-    "pitching": "Superstar Baseball ピッチング",
-    "fielding": "Superstar Baseball フィールディング",
-    "styles": "Superstar Baseball スタイル",
-    "spins": "Superstar Baseball スピン",
-    "script": "Superstar Baseball スクリプト"
+    "guide": "ガイド",
+    "batting": "バッティング",
+    "pitching": "ピッチング",
+    "fielding": "フィールディング",
+    "styles": "スタイル",
+    "spins": "スピン",
+    "script": "スクリプト"
   },
   "common": {
     "home": "ホーム",

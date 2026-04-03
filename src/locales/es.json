@@ -11,13 +11,13 @@
     }
   },
   "nav": {
-    "guide": "Guía de Superstar Baseball",
-    "batting": "Bateo en Superstar Baseball",
-    "pitching": "Pitcheo en Superstar Baseball",
-    "fielding": "Fildeo en Superstar Baseball",
-    "styles": "Estilos de Superstar Baseball",
-    "spins": "Giros de Superstar Baseball",
-    "script": "Script de Superstar Baseball"
+    "guide": "Guía",
+    "batting": "Bateo",
+    "pitching": "Pitcheo",
+    "fielding": "Fildeo",
+    "styles": "Estilos",
+    "spins": "Giros",
+    "script": "Script"
   },
   "common": {
     "home": "Inicio",
