@@ -1,0 +1,90 @@
+export const metadata = {
+  title: "Guide de l'effet de balle Superstar Baseball : Maîtrisez chaque coup 2026",
+  description: "Apprenez les secrets de la mécanique d'effet de balle dans Mario Superstar Baseball. Maîtrisez la physique des points de contact, les angles de lancement et l'attribut Super-Effet.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/ce1126/fff?text=Superstar+Baseball+Curve+Ball+Guide",
+  date: "2026-04-07",
+  author: "Équipe du Wiki Mario Superstar Baseball"
+}
+
+Mario Superstar Baseball reste l'un des titres sportifs les plus profonds mécaniquement du catalogue Nintendo. Bien qu'il puisse ressembler à une expérience d'arcade fantaisiste, le moteur physique sous-jacent régissant le mouvement de la balle est étonnamment complexe, surtout en ce qui concerne la trajectoire des frappes dans l'air. Ce **guide de l'effet de balle superstar baseball** est conçu pour décortiquer les algorithmes cachés qui déterminent à quel point une balle va "trancher" (slice) ou "crocheter" (hook) après avoir quitté la batte. Que vous soyez un joueur compétitif cherchant à optimiser votre potentiel de coup de circuit ou un fan occasionnel essayant de comprendre pourquoi vos frappes finissent toujours en fausse balle, il est essentiel de comprendre les mathématiques derrière le mouvement. Dans ce **guide de l'effet de balle superstar baseball**, nous explorerons les quatre piliers de la trajectoire de balle : la qualité du contact, l'angle de lancement, la direction horizontale et l'insaisissable attribut de personnage Super-Effet qui change complètement la donne.
+
+## Les quatre piliers de l'effet de balle
+
+La trajectoire d'une frappe dans Mario Superstar Baseball n'est pas aléatoire. Le jeu calcule une valeur d'accélération spécifique pour chaque coup en fonction de quatre variables distinctes. En manipulant ces variables, les joueurs peuvent efficacement "viser" leurs coups ou créer des trajectoires imprévisibles que les joueurs de champ devront poursuivre.
+
+| Composante | Description | Impact sur l'effet |
+|---|---|---|
+| **Point de contact** | L'endroit où la balle touche la batte sur une échelle de 0 à 200. | Un contact parfait (100) maximise l'effet potentiel. |
+| **Angle de lancement** | Le degré vertical auquel la balle est frappée. | Les angles élevés (chandelles) réduisent considérablement l'effet. |
+| **Angle horizontal** | La direction gauche-droite du coup par rapport au marbre. | Détermine la direction et l'ampleur du mouvement latéral. |
+| **Super-Effet** | Une capacité spécifique de personnage ou un modificateur de type de coup. | Augmente considérablement l'accélération de base de l'effet. |
+
+> **💡 Astuce :** Pour maximiser l'aspect "diabolique" d'un effet, visez un angle de lancement bas (frappe de ligne) et envoyez la balle vers les côtés extrêmes du terrain (pull ou push).
+
+## Maîtriser l'effet du point de contact
+
+Le "Point de contact" est peut-être l'élément le plus mal compris de ce **guide de l'effet de balle superstar baseball**. Le jeu utilise une échelle interne de 0 à 200 pour suivre l'endroit où la balle rencontre la batte. Une valeur de 100 représente une frappe "parfaite" en plein centre.
+
+Le jeu calcule l'effet de contact en vérifiant à quel point votre frappe était proche de ce 100 parfait. Si votre valeur est supérieure à 100 (disons 120), le jeu la soustrait de 200 (donnant 80) pour normaliser l'échelle de 0 à 100. Plus ce nombre final est proche de 100, plus la balle aura d'effet. Fait intéressant, les personnages dotés de la capacité Super-Effet (comme Boo ou Roi Boo) bénéficient d'une marge ici, ce qui signifie que même leurs coups décentrés conservent plus d'effet que le coup parfait d'un personnage standard.
+
+### Table de calcul de l'effet de contact
+
+| Type de personnage | Formule de l'effet de contact | Résultat à 50 % de contact |
+|---|---|---|
+| **Personnage standard** | 1 - (1 - x/100) * 0,5 | 0,75 (75 % de potentiel d'effet) |
+| **Personnage Super-Effet** | 1 - (1 - x/100) * 0,25 | 0,875 (87,5 % de potentiel d'effet) |
+
+## L'impact des angles de lancement
+
+En 2026, les joueurs compétitifs ont identifié que l'angle de lancement est le principal "tueur" d'effet de balle. Si vous frappez une chandelle haute, le moteur physique commence à annuler l'accélération latérale. C'est pourquoi les coups de circuit semblent souvent voyager en ligne droite par rapport aux frappes de ligne rasant le sol qui bifurquent soudainement vers le poteau de limite.
+
+La "zone idéale" pour l'effet est n'importe quel angle de lancement égal ou inférieur à **33,75 degrés**. Une fois que la balle est frappée plus haut que cela, l'effet commence un déclin linéaire. Au moment où une frappe atteint un angle de lancement de **78,75 degrés** (une chandelle littérale), l'effet est complètement supprimé (multiplié par 0).
+
+| Plage d'angle de lancement | Multiplicateur d'effet | Note stratégique |
+|---|---|---|
+| **0° à 33,75°** | 1,0 (Effet total) | Idéal pour faire "trancher" les balles hors de portée. |
+| **33,75° à 78,75°** | 1,0 descendant vers 0,0 | L'effet perd de sa force à mesure que la hauteur augmente. |
+| **Au-dessus de 78,75°** | 0,0 (Aucun effet) | Chandelles verticales droites sans aucun mouvement latéral. |
+
+## Les angles horizontaux et le "point de bascule"
+
+Chaque coup dans le jeu a un angle horizontal, où 90 degrés correspond à un tir direct vers la deuxième base. Cependant, le point où une balle s'arrête de tourner vers la gauche pour commencer à tourner vers la droite n'est pas réellement à 90 degrés.
+
+Le moteur physique centre le point "zéro effet" à **8,4 degrés vers le côté tiré (pull) du frappeur**. Pour un frappeur droitier, cela signifie que le point "neutre" est à 98,4 degrés. Pour un frappeur gaucher, il est à 81,6 degrés. Plus votre coup est éloigné de ce décalage de 8,4 degrés, plus l'effet devient spectaculaire. C'est pourquoi les élans "intérieur-extérieur" qui poussent la balle vers le champ opposé ont souvent une dérive légendaire dans Mario Superstar Baseball.
+
+## Personnages dotés de la capacité Super-Effet
+
+Tous les personnages ne sont pas égaux dans ce **guide de l'effet de balle superstar baseball**. Quelques élus possèdent le trait "Super-Effet", qui applique un multiplicateur massif à l'accélération X et Z de la balle. Alors que la plupart des personnages ont un facteur d'effet X de 0,001, les personnages Super-Effet affichent un facteur de **0,006**, soit six fois le montant standard !
+
+**Personnages et coups avec Super-Effet :**
+*   **Boo :** Le roi de l'effet tranché ; ses coups sont notoirement difficiles à suivre dans le champ extérieur.
+*   **Roi Boo :** Similaire à Boo mais avec beaucoup plus de puissance, faisant de ses coups de circuit à effet un cauchemar.
+*   **Frère Boomerang :** Son style unique de lancer et de frappe intègre naturellement cette physique d'effet élevé.
+*   **Frappes Étoiles de ligne :** N'importe quel personnage peut techniquement obtenir la physique Super-Effet s'il utilise une Frappe Étoile qui se traduit par une frappe de ligne.
+
+> **⚠️ Avertissement :** Lorsque vous défendez contre des personnages Super-Effet, ne courez jamais directement vers l'endroit où se trouve l'ombre de la balle. Anticipez toujours votre mouvement vers la ligne de touche, car la balle va probablement "dériver" considérablement avant de retomber.
+
+## Physique avancée : Accélération X et Z
+
+La trajectoire finale de la balle est déterminée en multipliant l'effet de contact, l'effet de l'angle de lancement et l'effet de l'angle horizontal. La valeur résultante est ensuite appliquée aux coordonnées X (latéral) et Z (profondeur).
+
+Une particularité intéressante du moteur de [Mario Superstar Baseball](https://www.nintendo.com/) est que l'effet sur l'axe Z (profondeur) est programmé pour toujours ramener la balle vers le marbre. Cela simule la résistance de l'air et la "traînée", provoquant une suspension des balles dans l'air ou une chute plus courte que ce que leur vitesse initiale pourrait suggérer. Pour les personnages Super-Effet, ce facteur Z est de 0,008, contre 0,003 pour les standards, c'est pourquoi leurs coups semblent souvent "plonger" vers l'herbe.
+
+## FAQ
+
+**Q : L'effet de la balle du lanceur affecte-t-il l'effet du coup frappé ?**
+
+R : Non. Une fois que la batte entre en contact avec la balle, la rotation initiale du lanceur est ignorée. Le nouvel effet est calculé entièrement en fonction des statistiques du frappeur, du point de contact et des angles décrits dans ce guide de l'effet de balle superstar baseball.
+
+**Q : Puis-je désactiver l'effet de balle dans les paramètres du jeu ?**
+
+R : Non, l'effet de balle est une partie centrale du moteur physique du jeu et ne peut pas être désactivé. Cependant, utiliser des personnages avec de faibles statistiques de contact ou frapper des chandelles hautes minimisera naturellement la quantité d'effet visible.
+
+**Q : Pourquoi mes coups finissent-ils toujours en fausse balle à cause de l'effet ?**
+
+R : Cela arrive généralement parce que vous "tirez" la balle trop tôt ou que vous la "poussez" trop tard. Comme l'ampleur de l'effet augmente à mesure que vous vous éloignez du point neutre de 8,4 degrés, les angles extrêmes entraîneront presque toujours une accélération de la balle vers les lignes de fausse balle.
+
+**Q : La capacité Super-Effet est-elle la même chose que le lancer "Balle Maudite" ?**
+
+R : Non. La Balle Maudite est une mécanique de lancer spécifique utilisée par des personnages comme Boo pour tromper les frappeurs. Le Super-Effet discuté ici se réfère spécifiquement à la physique appliquée à la balle *après* qu'elle a été frappée par une batte.

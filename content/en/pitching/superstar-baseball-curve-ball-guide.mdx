@@ -1,0 +1,90 @@
+export const metadata = {
+  title: "Superstar Baseball Curve Ball Guide: Master Every Pitch 2026",
+  description: "Learn the secrets of the ball curve mechanics in Mario Superstar Baseball. Master the physics of contact spots, launch angles, and the Super-Curve attribute.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/ce1126/fff?text=Superstar+Baseball+Curve+Ball+Guide",
+  date: "2026-04-07",
+  author: "Mario Superstar Baseball Wiki Team"
+}
+
+Mario Superstar Baseball remains one of the most mechanically deep sports titles in the Nintendo catalog. While it may appear as a whimsical arcade experience, the underlying physics engine governing ball movement is surprisingly complex, especially when it comes to how hits travel through the air. This **superstar baseball curve ball guide** is designed to break down the hidden algorithms that determine how much a ball will "slice" or "hook" after leaving the bat. Whether you are a competitive player looking to optimize your home run potential or a casual fan trying to understand why your hits keep foul-balling, understanding the math behind the movement is essential. In this **superstar baseball curve ball guide**, we will explore the four primary components of ball trajectory: contact quality, launch angle, horizontal direction, and the elusive Super-Curve character attribute that changes the game entirely.
+
+## The Four Pillars of Ball Curve
+
+The trajectory of a hit in Mario Superstar Baseball isn't random. The game calculates a specific acceleration value for every hit based on four distinct variables. By manipulating these variables, players can effectively "aim" their hits or create unpredictable paths for outfielders to chase.
+
+| Component | Description | Impact on Curve |
+|---|---|---|
+| **Contact Spot** | Where the ball hits the bat on a 0-200 scale. | Perfect contact (100) maximizes potential curve. |
+| **Launch Angle** | The vertical degree at which the ball is hit. | Higher angles (pop-ups) significantly reduce curve. |
+| **Horizontal Angle** | The left-right direction of the hit relative to the plate. | Determines the direction and magnitude of the lateral movement. |
+| **Super-Curve** | A specific character ability or hit type modifier. | Dramatically increases the base acceleration of the curve. |
+
+> **💡 Tip:** To maximize the "wickedness" of a curve, aim for a low launch angle (line drive) and hit the ball toward the extreme pull or push sides of the field.
+
+## Mastering the Contact Spot Effect
+
+The "Contact Spot" is perhaps the most misunderstood element of the **superstar baseball curve ball guide**. The game uses an internal scale from 0 to 200 to track where the ball meets the bat. A value of 100 represents a "perfect" center-cut hit. 
+
+The game calculates the "Contact Effect" by checking how close your hit was to that perfect 100. If your value is over 100 (say, 120), the game subtracts it from 200 (resulting in 80) to normalize the scale to 0-100. The closer this final number is to 100, the more the ball will curve. Interestingly, characters with the Super-Curve ability (like Boo or King Boo) receive a buffer here, meaning even their "off-center" hits retain more curve than a standard character's perfect hit.
+
+### Contact Effect Calculation Table
+
+| Character Type | Formula for Contact Effect | Result at 50% Contact |
+|---|---|---|
+| **Standard Character** | 1 - (1 - x/100) * 0.5 | 0.75 (75% curve potential) |
+| **Super-Curve Character** | 1 - (1 - x/100) * 0.25 | 0.875 (87.5% curve potential) |
+
+## The Impact of Launch Angles
+
+In 2026, competitive players have identified that the launch angle is the primary "killer" of ball curve. If you hit a high fly ball, the physics engine begins to nullify the lateral acceleration. This is why home runs often appear to travel in a straighter line compared to low-skimming line drives that suddenly veer toward the foul pole.
+
+The "sweet spot" for curve is any launch angle at or below **33.75 degrees**. Once the ball is hit higher than this, the curve effect begins a linear decline. By the time a hit reaches a launch angle of **78.75 degrees** (a literal pop-up), the curve is completely removed (multiplied by 0).
+
+| Launch Angle Range | Curve Multiplier | Strategic Note |
+|---|---|---|
+| **0° to 33.75°** | 1.0 (Full Curve) | Best for "slicing" hits past outfielders. |
+| **33.75° to 78.75°** | 1.0 down to 0.0 | Curve loses strength as height increases. |
+| **Above 78.75°** | 0.0 (No Curve) | Straight vertical pop-ups with zero lateral movement. |
+
+## Horizontal Angles and the "Flip Point"
+
+Every hit in the game has a horizontal angle, where 90 degrees is a straight shot toward second base. However, the point where a ball stops curving to the left and starts curving to the right is not actually 90 degrees. 
+
+The physics engine centers the "zero curve" point at **8.4 degrees toward the batter's pull side**. For a right-handed batter, this means the "neutral" point is 98.4 degrees. For a left-handed batter, it is 81.6 degrees. The further your hit is from this 8.4-degree offset, the more dramatic the curve becomes. This is why "inside-out" swings that push the ball to the opposite field often have such a legendary tailing action in Mario Superstar Baseball.
+
+## Characters with the Super-Curve Ability
+
+Not all characters are created equal in this **superstar baseball curve ball guide**. A select few possess the "Super-Curve" trait, which applies a massive multiplier to the ball's X and Z acceleration. While most characters have an X-curve factor of 0.001, Super-Curve characters boast a factor of **0.006**—six times the standard amount!
+
+**Characters and hits with Super-Curve:**
+*   **Boo:** The king of the slice; his hits are notoriously difficult to track in the outfield.
+*   **King Boo:** Similar to Boo but with significantly more power, making his curving home runs a nightmare.
+*   **Boomerang Bro:** His unique throwing and hitting style incorporates this high-curve physics naturally.
+*   **Line-Drive Star Hits:** Any character can technically achieve Super-Curve physics if they use a Star Swing that results in a line drive.
+
+> **⚠️ Warning:** When fielding against Super-Curve characters, never run directly to where the ball shadow currently is. Always lead your movement toward the foul line, as the ball will likely "drift" significantly before landing.
+
+## Advanced Physics: X and Z Acceleration
+
+The final trajectory of the ball is determined by multiplying the Contact Effect, Launch Angle Effect, and Horizontal Angle Effect together. This resulting value is then applied to the X (lateral) and Z (depth) coordinates. 
+
+One interesting quirk of the [Mario Superstar Baseball](https://www.nintendo.com/) engine is that the Z-axis curve (depth) is programmed to always pull the ball back toward home plate. This simulates air resistance and "drag," causing hits to hang in the air or drop shorter than their initial velocity might suggest. For Super-Curve characters, this Z-factor is 0.008, compared to the standard 0.003, which is why their hits often look like they are "diving" toward the grass.
+
+## FAQ
+
+**Q: Does the pitcher's curveball affect the hit's curve?**
+
+A: No. Once the bat makes contact with the ball, the pitcher's initial spin is discarded. The new curve is calculated entirely based on the batter's stats, the contact spot, and the angles described in this superstar baseball curve ball guide.
+
+**Q: Can I turn off the ball curve in the game settings?**
+
+A: No, the ball curve is a core part of the game's physics engine and cannot be disabled. However, using characters with low contact stats or hitting high fly balls will naturally minimize the amount of curve you see.
+
+**Q: Why do my hits always curve into foul territory?**
+
+A: This usually happens because you are "pulling" the ball too early or "pushing" it too late. Because the curve magnitude increases the further you are from the 8.4-degree neutral point, extreme angles will almost always result in the ball accelerating toward the foul lines.
+
+**Q: Is the Super-Curve ability the same as the "Cursed Ball" pitching move?**
+
+A: No. The Cursed Ball is a specific pitching mechanic used by characters like Boo to deceive batters. The Super-Curve discussed here refers specifically to the physics applied to the ball *after* it has been hit by a bat.

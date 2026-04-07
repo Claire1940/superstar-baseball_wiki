@@ -1,0 +1,90 @@
+export const metadata = {
+  title: "Guía del efecto de la bola en Superstar Baseball: Domina cada golpe 2026",
+  description: "Aprende los secretos de la mecánica del efecto de la bola en Mario Superstar Baseball. Domina la física de los puntos de contacto, los ángulos de salida y el atributo Super-Curve.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/ce1126/fff?text=Superstar+Baseball+Curve+Ball+Guide",
+  date: "2026-04-07",
+  author: "Mario Superstar Baseball Wiki Team"
+}
+
+Mario Superstar Baseball sigue siendo uno de los títulos deportivos con mayor profundidad mecánica del catálogo de Nintendo. Aunque pueda parecer una experiencia arcade caprichosa, el motor de física subyacente que rige el movimiento de la bola es sorprendentemente complejo, especialmente en lo que respecta a cómo viajan los batazos por el aire. Esta **guía del efecto de la bola en superstar baseball** está diseñada para desglosar los algoritmos ocultos que determinan cuánto se desviará ("slice") o se curvará ("hook") una bola tras salir del bate. Ya seas un jugador competitivo que busca optimizar su potencial de home run o un fan casual que intenta entender por qué sus hits siempre terminan en foul, comprender las matemáticas detrás del movimiento es esencial. En esta **guía del efecto de la bola en superstar baseball**, exploraremos los cuatro componentes principales de la trayectoria de la bola: calidad del contacto, ángulo de salida, dirección horizontal y el escurridizo atributo de personaje Super-Curve que cambia el juego por completo.
+
+## Los cuatro pilares del efecto de la bola
+
+La trayectoria de un golpe en Mario Superstar Baseball no es aleatoria. El juego calcula un valor de aceleración específico para cada hit basado en cuatro variables distintas. Al manipular estas variables, los jugadores pueden "apuntar" eficazmente sus golpes o crear trayectorias impredecibles para que los jardineros las persigan.
+
+| Componente | Descripción | Impacto en el efecto |
+|---|---|---|
+| **Punto de contacto** | Dónde golpea la bola al bate en una escala de 0-200. | El contacto perfecto (100) maximiza el efecto potencial. |
+| **Ángulo de salida** | El grado vertical en el que se golpea la bola. | Los ángulos altos (pop-ups) reducen significativamente el efecto. |
+| **Ángulo horizontal** | La dirección izquierda-derecha del golpe relativa al plato. | Determina la dirección y magnitud del movimiento lateral. |
+| **Super-Curve** | Una habilidad específica de personaje o modificador de tipo de hit. | Aumenta drásticamente la aceleración base del efecto. |
+
+> **💡 Consejo:** Para maximizar la "maldad" de un efecto, busca un ángulo de salida bajo (línea) y golpea la bola hacia los extremos de la banda de tiro (pull) o banda contraria (push).
+
+## Dominando el efecto del punto de contacto
+
+El "Punto de contacto" es quizás el elemento más incomprendido de esta **guía del efecto de la bola en superstar baseball**. El juego utiliza una escala interna de 0 a 200 para rastrear dónde se encuentra la bola con el bate. Un valor de 100 representa un golpe "perfecto" en el centro.
+
+El juego calcula el "Efecto de contacto" verificando qué tan cerca estuvo tu golpe de ese 100 perfecto. Si tu valor es superior a 100 (por ejemplo, 120), el juego lo resta de 200 (dando como resultado 80) para normalizar la escala de 0 a 100. Cuanto más cerca esté este número final de 100, más se curvará la bola. Curiosamente, los personajes con la habilidad Super-Curve (como Boo o King Boo) reciben un margen de error aquí, lo que significa que incluso sus golpes "descentrados" conservan más efecto que el golpe perfecto de un personaje estándar.
+
+### Tabla de cálculo del efecto de contacto
+
+| Tipo de personaje | Fórmula para el efecto de contacto | Resultado al 50% de contacto |
+|---|---|---|
+| **Personaje estándar** | 1 - (1 - x/100) * 0.5 | 0.75 (75% de potencial de efecto) |
+| **Personaje Super-Curve** | 1 - (1 - x/100) * 0.25 | 0.875 (87.5% de potencial de efecto) |
+
+## El impacto de los ángulos de salida
+
+En 2026, los jugadores competitivos han identificado que el ángulo de salida es el principal "asesino" del efecto de la bola. Si golpeas un elevado muy alto, el motor de física comienza a anular la aceleración lateral. Es por eso que los home runs a menudo parecen viajar en una línea más recta en comparación con las líneas bajas que de repente se desvían hacia el poste de foul.
+
+El "punto ideal" para el efecto es cualquier ángulo de salida igual o inferior a **33.75 grados**. Una vez que la bola se golpea más alto que esto, el efecto de la curva comienza un declive lineal. Para cuando un golpe alcanza un ángulo de salida de **78.75 grados** (un pop-up literal), el efecto se elimina por completo (multiplicado por 0).
+
+| Rango de ángulo de salida | Multiplicador de efecto | Nota estratégica |
+|---|---|---|
+| **0° a 33.75°** | 1.0 (Efecto total) | Ideal para hacer que los hits se "desvíen" de los jardineros. |
+| **33.75° a 78.75°** | 1.0 baja hasta 0.0 | El efecto pierde fuerza a medida que aumenta la altura. |
+| **Más de 78.75°** | 0.0 (Sin efecto) | Elevados verticales rectos con cero movimiento lateral. |
+
+## Ángulos horizontales y el "punto de giro"
+
+Cada golpe en el juego tiene un ángulo horizontal, donde 90 grados es un tiro directo hacia la segunda base. Sin embargo, el punto donde una bola deja de curvarse hacia la izquierda y comienza a curvarse hacia la derecha no es exactamente 90 grados.
+
+El motor de física centra el punto de "efecto cero" a **8.4 grados hacia el lado de tiro (pull) del bateador**. Para un bateador diestro, esto significa que el punto "neutral" es 98.4 grados. Para un bateador zurdo, es 81.6 grados. Cuanto más lejos esté tu golpe de este desplazamiento de 8.4 grados, más dramático será el efecto. Es por eso que los swings "de adentro hacia afuera" que empujan la bola hacia el campo opuesto a menudo tienen esa legendaria acción de cola en Mario Superstar Baseball.
+
+## Personajes con la habilidad Super-Curve
+
+No todos los personajes son iguales en esta **guía del efecto de la bola en superstar baseball**. Unos pocos seleccionados poseen el rasgo "Super-Curve", que aplica un multiplicador masivo a la aceleración X y Z de la bola. Mientras que la mayoría de los personajes tienen un factor de efecto X de 0.001, los personajes con Super-Curve cuentan con un factor de **0.006**, ¡seis veces la cantidad estándar!
+
+**Personajes y hits con Super-Curve:**
+*   **Boo:** El rey del "slice"; sus golpes son notoriamente difíciles de rastrear en los jardines.
+*   **King Boo:** Similar a Boo pero con significativamente más potencia, lo que hace que sus home runs con efecto sean una pesadilla.
+*   **Boomerang Bro:** Su estilo único de lanzamiento y bateo incorpora esta física de gran efecto de forma natural.
+*   **Hits estrella de línea:** Cualquier personaje puede técnicamente lograr la física de Super-Curve si utiliza un Swing Estrella que resulte en una línea.
+
+> **⚠️ Advertencia:** Al defender contra personajes con Super-Curve, nunca corras directamente hacia donde está la sombra de la bola en ese momento. Siempre dirige tu movimiento hacia la línea de foul, ya que es probable que la bola se "desplace" significativamente antes de aterrizar.
+
+## Física avanzada: Aceleración X y Z
+
+La trayectoria final de la bola se determina multiplicando el Efecto de contacto, el Efecto del ángulo de salida y el Efecto del ángulo horizontal. El valor resultante se aplica a las coordenadas X (lateral) y Z (profundidad).
+
+Una peculiaridad interesante del motor de [Mario Superstar Baseball](https://www.nintendo.com/) es que el efecto del eje Z (profundidad) está programado para tirar siempre de la bola hacia el plato. Esto simula la resistencia del aire y el "arrastre", causando que los golpes se mantengan en el aire o caigan más cerca de lo que su velocidad inicial podría sugerir. Para los personajes con Super-Curve, este factor Z es 0.008, comparado con el estándar 0.003, razón por la cual sus hits a menudo parecen estar "buceando" hacia el césped.
+
+## FAQ (Preguntas frecuentes)
+
+**P: ¿Afecta la curva del lanzador al efecto del hit?**
+
+R: No. Una vez que el bate hace contacto con la bola, el giro inicial del lanzador se descarta. El nuevo efecto se calcula enteramente en base a las estadísticas del bateador, el punto de contacto y los ángulos descritos en esta guía del efecto de la bola en superstar baseball.
+
+**P: ¿Puedo desactivar el efecto de la bola en los ajustes del juego?**
+
+R: No, el efecto de la bola es una parte central del motor de física del juego y no se puede desactivar. Sin embargo, usar personajes con bajas estadísticas de contacto o golpear elevados muy altos minimizará naturalmente la cantidad de efecto que verás.
+
+**P: ¿Por qué mis hits siempre se curvan hacia territorio de foul?**
+
+R: Esto suele suceder porque estás "jalando" (pulling) la bola demasiado pronto o "empujándola" (pushing) demasiado tarde. Debido a que la magnitud del efecto aumenta cuanto más te alejas del punto neutral de 8.4 grados, los ángulos extremos casi siempre resultarán en que la bola acelere hacia las líneas de foul.
+
+**P: ¿Es la habilidad Super-Curve lo mismo que el movimiento de pitcheo "Bola Maldita"?**
+
+R: No. La Bola Maldita es una mecánica de pitcheo específica utilizada por personajes como Boo para engañar a los bateadores. El Super-Curve discutido aquí se refiere específicamente a la física aplicada a la bola *después* de haber sido golpeada por un bate.
