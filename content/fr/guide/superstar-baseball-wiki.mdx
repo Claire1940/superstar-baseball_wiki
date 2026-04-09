@@ -1,0 +1,135 @@
+export const metadata = {
+  title: "Superstar Baseball Wiki : Le guide ultime de Project Rio Online 2026",
+  description: "Maîtrisez Mario Superstar Baseball avec notre guide complet 2026. Apprenez à configurer Project Rio, optimiser les performances et rejoindre la communauté classée en ligne.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/075985/fff?text=Superstar+Baseball+Wiki+Guide",
+  date: "2026-04-09",
+  author: "Mario Baseball Wiki Team"
+}
+
+Mario Superstar Baseball reste un classique très apprécié, mais en 2026, le jeu a trouvé une seconde vie grâce aux efforts dévoués de la communauté Project Rio. Ce guide du **superstar baseball wiki** est conçu pour aider les vétérans et les nouveaux joueurs à naviguer dans le paysage technique de l'émulation moderne et du jeu compétitif en ligne. Que vous cherchiez à revivre des souvenirs d'enfance ou à grimper dans le classement mondial, il est essentiel de comprendre les nuances de Project Rio. En suivant cette ressource du **superstar baseball wiki**, vous apprendrez à installer les logiciels nécessaires, à configurer vos manettes pour une latence nulle et à vous connecter avec des milliers d'autres joueurs dans l'écosystème Discord. La scène compétitive est plus active que jamais, avec des tournois, des ligues saisonnières et un système de matchmaking robuste qui propulse ce joyau de la GameCube dans l'ère moderne du jeu vidéo.
+
+## Configuration système requise et préparation
+
+Avant de vous lancer dans le processus d'installation, vous devez vous assurer que votre matériel est capable de faire tourner l'émulateur Dolphin modifié utilisé par Project Rio. Bien que Mario Superstar Baseball ait plus de deux décennies, l'émulation moderne nécessite un processeur (CPU) correct pour maintenir un taux constant de 60 images par seconde (FPS), ce qui est crucial pour les mécaniques de lancer et de batte basées sur le timing.
+
+### Spécifications matérielles recommandées
+
+| Composant | Minimum Windows | Recommandation Mac |
+|---|---|---|
+| **CPU** | Intel i7-7500U ou équivalent | Apple Silicon (M1, M2, M3) |
+| **GPU** | Nvidia GeForce 940MX | GPU Apple intégré |
+| **RAM** | 8 Go DDR4 | 8 Go de mémoire unifiée |
+| **OS** | Windows 10/11 | macOS 12.0 ou plus récent |
+
+En plus de votre ordinateur, vous aurez besoin d'un fichier ISO légal du jeu. Le standard de la communauté est une version NTSC-U propre de Mario Superstar Baseball. 
+
+> **⚠️ Avertissement :** L'équipe de Project Rio et ce wiki ne peuvent pas fournir de fichiers de jeu (ISO). La distribution de ces fichiers est illégale. Assurez-vous que votre fichier pèse exactement **1,46 Go** ; les fichiers plus petits (formats nKit ou compressés) provoquent souvent des désynchronisations lors des parties en ligne.
+
+## Installation de Project Rio sur Windows et Mac
+
+Project Rio est un fork spécialisé de l'émulateur Dolphin, optimisé pour le jeu en réseau (netplay). Le processus d'installation varie légèrement selon votre système d'exploitation.
+
+### Étapes d'installation sur Windows
+1. Téléchargez l'exécutable Project Rio sur le site officiel.
+2. Si Windows Defender signale le fichier, cliquez sur "Informations complémentaires" puis sur "Exécuter quand même".
+3. Choisissez votre chemin d'installation et terminez l'assistant.
+4. Lancez l'application et double-cliquez au centre de l'écran pour définir votre répertoire ISO.
+
+### Étapes d'installation sur macOS
+1. Téléchargez le fichier ZIP de Project Rio et extrayez-le via le Finder (évitez l'extraction directe dans le menu des téléchargements du navigateur pour prévenir les bugs).
+2. Faites glisser l'application dans votre dossier "Applications".
+3. Si vous recevez une erreur de vérification du développeur, accédez à **Réglages Système > Confidentialité et sécurité** et sélectionnez "Ouvrir quand même" en bas du menu.
+4. Si vous y êtes invité, installez Rosetta 2 pour assurer la compatibilité avec le code basé sur Intel.
+
+<div style={{position: "relative", paddingBottom: "56.25%", height: 0, margin: "2rem 0", borderRadius: "0.5rem", overflow: "hidden"}}>
+  <iframe
+    style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}
+    src="https://www.youtube.com/embed/Qy78UPU56tI"
+    title="Comment jouer à Mario Superstar Baseball en ligne ! - Guide complet mis à jour"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
+## Configuration des manettes et pilotes
+
+Pour l'expérience la plus authentique, de nombreux joueurs préfèrent utiliser une manette GameCube originale. Cependant, cela nécessite un adaptateur USB (comme Mayflash ou l'adaptateur Wii U officiel) et des pilotes spécifiques pour éliminer le retard de saisie (input lag).
+
+### Configuration de l'adaptateur GameCube
+
+| Plateforme | Logiciel requis | Réglage clé |
+|---|---|---|
+| **Windows** | Zadig | Changer le pilote pour **WinUSB** |
+| **Mac** | Pilote d'adaptateur GC | Activer dans les Réglages Système |
+| **Les deux** | Interrupteur physique | Régler l'adaptateur sur **Mode Wii U** |
+
+Si vous utilisez une manette moderne comme une manette PlayStation 5 ou Xbox Series X, vous n'avez pas besoin de pilotes spéciaux. Allez simplement dans le menu "Controllers" de Project Rio, sélectionnez "Standard Controller" et cliquez sur "Configure". Vous devrez mapper manuellement vos boutons en cliquant sur le champ de saisie et en appuyant sur le bouton correspondant de votre manette.
+
+> **💡 Astuce :** Lors du mappage d'une manette Xbox ou PlayStation, veillez à calibrer la "Deadzone" (zone morte) de vos sticks analogiques pour éviter la dérive du stick ("stick drift") lors des moments de lancer sous haute pression.
+
+## Optimisation graphique pour le jeu en ligne
+
+Pour garantir une expérience fluide à vous et à votre adversaire, vous devez optimiser vos paramètres graphiques. Les désynchronisations sont souvent causées par l'ordinateur d'un joueur qui ne parvient pas à maintenir la vitesse de jeu à 100 %.
+
+### Moteurs graphiques recommandés (Backends)
+*   **macOS :** Utilisez toujours **Metal**. Alors que les anciens guides suggéraient Vulcan, Metal est désormais nativement pris en charge et offre la meilleure stabilité sur le matériel Apple.
+*   **Windows :** **Direct3D 11** ou **Direct3D 12** sont généralement les plus stables. Si vous avez un GPU plus ancien, Vulcan peut offrir un léger gain de performance.
+
+### Tableau d'optimisation des performances
+
+| Paramètre | Recommandation | Effet |
+|---|---|---|
+| **Résolution interne** | 1x ou 2x Natif | Les valeurs élevées sont plus jolies mais sollicitent le GPU. |
+| **Plein écran** | Utiliser le bouton "Plein écran" | Améliore la stabilité des FPS par rapport au mode fenêtré. |
+| **Afficher les FPS** | Activé | Aide à surveiller si votre jeu descend en dessous de 60. |
+| **Étirement audio** | Désactivé | Peut causer un décalage audio en jeu en réseau. |
+
+## Rejoindre la communauté classée
+
+Une fois votre configuration technique terminée, le cœur de l'expérience du **superstar baseball wiki** est la communauté en ligne. Pour jouer contre d'autres personnes, vous devez créer un compte Project Rio sur leur site officiel. Ce compte suit vos statistiques, votre classement Elo et l'historique de vos tournois.
+
+### Le Discord et le Matchmaking
+Le [Discord Mario Baseball](https://discord.gg/mariobaseball) est la plaque tournante de tous les matchs. Après l'avoir rejoint, suivez ces étapes :
+1. Accédez au canal **#role-self-assignment**.
+2. Sélectionnez le rôle "New Netplayer" pour accéder à la **Pont League**.
+3. Utilisez le bot de matchmaking pour rejoindre une file d'attente pour les modes de jeu "Stars Off" ou "Big Balla".
+4. Une fois le match trouvé, copiez le code du salon fourni par votre adversaire ou hébergez le vôtre.
+
+### Règles de draft compétitives
+Le jeu compétitif utilise des formats de draft spécifiques pour assurer l'équilibre. Dans le mode standard "Stars Off", la communauté suit un ordre de draft **1-1-1-1**. Cependant, comme des personnages comme Bowser et Flora Piranha sont nettement plus forts, les joueurs utilisent souvent des "Placeholders" (remplaçants).
+
+Par exemple, si vous voulez Flora Piranha comme capitaine mais que vous avez le premier choix, vous pourriez d'abord drafter un remplaçant comme Daisy, puis sélectionner Flora plus tard dans la draft. Avant le début du match, vous pouvez utiliser la fonction "Swap Captain" dans le menu de Project Rio pour définir votre véritable capitaine.
+
+## Fonctionnalités avancées : Codes Gecko et Mods
+
+Project Rio inclut un gestionnaire de "Mods" intégré qui vous permet de télécharger des codes Gecko. Il s'agit de correctifs communautaires qui ajoutent des fonctionnalités ou corrigent des bugs du jeu original.
+
+*   **Training Mode v1.0 :** Fournit un retour en temps réel sur le timing de frappe et la trajectoire de la balle.
+*   **Unlock All Characters :** Indispensable pour les nouvelles installations afin de ne pas avoir à terminer le mode Challenge.
+*   **Custom Stadiums :** Certains mods permettent des changements esthétiques sur des terrains comme la Plage de Mario ou le Palais de Wario.
+
+> **⚠️ Avertissement :** N'essayez pas de jouer au "Mode Challenge" dans Project Rio. Les modifications spécifiques au jeu en ligne interfèrent avec la sauvegarde et entraîneront probablement un plantage ou des données corrompues. Utilisez la version standard de Dolphin pour la progression en solo.
+
+## FAQ
+
+**Q : Pourquoi mon jeu lag-t-il alors que j'ai un PC rapide ?**
+
+R : En ligne, le lag est souvent causé par la connexion entre les joueurs plutôt que par le matériel. Ce **superstar baseball wiki** recommande vivement d'utiliser une connexion Ethernet filaire. Le Wi-Fi est instable et provoque des saccades qui gâchent le timing. Si votre "Ping" est supérieur à 90 ms, vous ressentirez un délai notable.
+
+**Q : Puis-je jouer à Mario Superstar Baseball en ligne sur mon Steam Deck ?**
+
+R : Oui ! Puisque Project Rio est basé sur Dolphin, il peut fonctionner sur Linux (Steam Deck). Vous devrez utiliser le mode Bureau pour installer la version Flatpak ou suivre des scripts communautaires pour lancer le fork Project Rio.
+
+**Q : Quelle est la différence entre "Stars On" et "Stars Off" ?**
+
+R : "Stars Off" supprime les capacités d'étoile (coups spéciaux), se concentrant sur les compétences mécaniques pures. "Stars On" (souvent en format Big Balla) permet d'utiliser des points d'étoile pour des coups puissants, ajoutant une couche de gestion de ressources.
+
+**Q : Ma manette GameCube n'est pas détectée sur mon Mac. Que faire ?**
+
+R : Assurez-vous d'avoir autorisé le "GC Adapter Driver" dans les Réglages Système sous "Ouverture et extensions". Redémarrez votre ordinateur après l'installation. Vérifiez que votre adaptateur est sur le mode "Wii U" et non "PC".
+
+## Conclusion
+
+Maîtriser l'aspect technique du **superstar baseball wiki** est la première étape pour devenir un joueur de haut niveau. En optimisant vos paramètres et en rejoignant la communauté dynamique sur Discord, vous vous assurez que ce titre classique continue de prospérer en 2026. N'oubliez pas de toujours prioriser une connexion stable et de respecter les règles de draft pour maintenir l'esprit de compétition. Rendez-vous sur le terrain !
