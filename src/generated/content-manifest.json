@@ -1,0 +1,1462 @@
+{
+  "en": {
+    "batting": [
+      {
+        "slug": "superstar-baseball-batting-tips",
+        "file": "superstar-baseball-batting-tips"
+      },
+      {
+        "slug": "superstar-baseball-batting",
+        "file": "superstar-baseball-batting"
+      },
+      {
+        "slug": "superstar-baseball-contact-tips-guide",
+        "file": "superstar-baseball-contact-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting-guide",
+        "file": "superstar-baseball-hitting-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting",
+        "file": "superstar-baseball-hitting"
+      },
+      {
+        "slug": "superstar-baseball-home-run-tips",
+        "file": "superstar-baseball-home-run-tips"
+      },
+      {
+        "slug": "superstar-baseball-home-runs",
+        "file": "superstar-baseball-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-how-to-hit-home-runs",
+        "file": "superstar-baseball-how-to-hit-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-power-batting-guide",
+        "file": "superstar-baseball-power-batting-guide"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "superstar-baseball-codes-2025",
+        "file": "superstar-baseball-codes-2025"
+      },
+      {
+        "slug": "superstar-baseball-codes-2026-list",
+        "file": "superstar-baseball-codes-2026-list"
+      },
+      {
+        "slug": "superstar-baseball-codes",
+        "file": "superstar-baseball-codes"
+      },
+      {
+        "slug": "superstar-baseball-expired-codes-list",
+        "file": "superstar-baseball-expired-codes-list"
+      },
+      {
+        "slug": "superstar-baseball-new-codes-this-week",
+        "file": "superstar-baseball-new-codes-this-week"
+      },
+      {
+        "slug": "superstar-baseball-redeem-code-list",
+        "file": "superstar-baseball-redeem-code-list"
+      },
+      {
+        "slug": "superstar-baseball-working-codes",
+        "file": "superstar-baseball-working-codes"
+      }
+    ],
+    "fielding": [
+      {
+        "slug": "superstar-baseball-coverage",
+        "file": "superstar-baseball-coverage"
+      },
+      {
+        "slug": "superstar-baseball-diving-catch-guide",
+        "file": "superstar-baseball-diving-catch-guide"
+      },
+      {
+        "slug": "superstar-baseball-flyout",
+        "file": "superstar-baseball-flyout"
+      },
+      {
+        "slug": "superstar-baseball-how-to-reduce-errors",
+        "file": "superstar-baseball-how-to-reduce-errors"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blight-superstar-baseball",
+        "file": "blight-superstar-baseball"
+      },
+      {
+        "slug": "codes-for-superstar-baseball-roblox",
+        "file": "codes-for-superstar-baseball-roblox"
+      },
+      {
+        "slug": "fake-hub-superstar-baseball-script",
+        "file": "fake-hub-superstar-baseball-script"
+      },
+      {
+        "slug": "how-to-get-good-at-superstar-baseball",
+        "file": "how-to-get-good-at-superstar-baseball"
+      },
+      {
+        "slug": "how-to-hit-home-runs-in-superstar-baseball-roblox",
+        "file": "how-to-hit-home-runs-in-superstar-baseball-roblox"
+      },
+      {
+        "slug": "super-star-baseball",
+        "file": "super-star-baseball"
+      },
+      {
+        "slug": "superstar-basebal",
+        "file": "superstar-basebal"
+      },
+      {
+        "slug": "superstar-baseball-beginner-guide",
+        "file": "superstar-baseball-beginner-guide"
+      },
+      {
+        "slug": "superstar-baseball-controls",
+        "file": "superstar-baseball-controls"
+      },
+      {
+        "slug": "superstar-baseball-guide",
+        "file": "superstar-baseball-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-level-up-fast",
+        "file": "superstar-baseball-how-to-level-up-fast"
+      },
+      {
+        "slug": "superstar-baseball-meta-guide",
+        "file": "superstar-baseball-meta-guide"
+      },
+      {
+        "slug": "superstar-baseball-rank-guide",
+        "file": "superstar-baseball-rank-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-guide",
+        "file": "superstar-baseball-roblox-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-wiki",
+        "file": "superstar-baseball-roblox-wiki"
+      },
+      {
+        "slug": "superstar-baseball-script-keyless",
+        "file": "superstar-baseball-script-keyless"
+      },
+      {
+        "slug": "superstar-baseball-stars-guide",
+        "file": "superstar-baseball-stars-guide"
+      },
+      {
+        "slug": "superstar-baseball-tips-and-tricks",
+        "file": "superstar-baseball-tips-and-tricks"
+      },
+      {
+        "slug": "superstar-baseball-tips",
+        "file": "superstar-baseball-tips"
+      },
+      {
+        "slug": "superstar-baseball-tutorial",
+        "file": "superstar-baseball-tutorial"
+      },
+      {
+        "slug": "superstar-baseball-wiki-overview",
+        "file": "superstar-baseball-wiki-overview"
+      },
+      {
+        "slug": "superstar-baseball-wiki",
+        "file": "superstar-baseball-wiki"
+      },
+      {
+        "slug": "superstar-baseball",
+        "file": "superstar-baseball"
+      }
+    ],
+    "pitching": [
+      {
+        "slug": "superstar-baseball-all-pitches",
+        "file": "superstar-baseball-all-pitches"
+      },
+      {
+        "slug": "superstar-baseball-best-pitching-style",
+        "file": "superstar-baseball-best-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-changeup-guide",
+        "file": "superstar-baseball-changeup-guide"
+      },
+      {
+        "slug": "superstar-baseball-curve-ball-guide",
+        "file": "superstar-baseball-curve-ball-guide"
+      },
+      {
+        "slug": "superstar-baseball-fastball-tips-guide",
+        "file": "superstar-baseball-fastball-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-pitch-better",
+        "file": "superstar-baseball-how-to-pitch-better"
+      },
+      {
+        "slug": "superstar-baseball-pitches",
+        "file": "superstar-baseball-pitches"
+      },
+      {
+        "slug": "superstar-baseball-pitching-guide",
+        "file": "superstar-baseball-pitching-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching",
+        "file": "superstar-baseball-pitching"
+      }
+    ],
+    "script": [
+      {
+        "slug": "superstar-baseball-gui-script-guide",
+        "file": "superstar-baseball-gui-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-keyless-script-guide",
+        "file": "superstar-baseball-keyless-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-macro",
+        "file": "superstar-baseball-macro"
+      },
+      {
+        "slug": "superstar-baseball-roblox-script-guide",
+        "file": "superstar-baseball-roblox-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-script-2026",
+        "file": "superstar-baseball-script-2026"
+      },
+      {
+        "slug": "superstar-baseball-script-no-key",
+        "file": "superstar-baseball-script-no-key"
+      },
+      {
+        "slug": "superstar-baseball-script",
+        "file": "superstar-baseball-script"
+      }
+    ],
+    "spins": [
+      {
+        "slug": "superstar-baseball-free-spin",
+        "file": "superstar-baseball-free-spin"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-free-spins",
+        "file": "superstar-baseball-how-to-get-free-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-lucky-spins",
+        "file": "superstar-baseball-how-to-get-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-lucky-spins",
+        "file": "superstar-baseball-how-to-use-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-wheelspins",
+        "file": "superstar-baseball-how-to-use-wheelspins"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spin-best-items",
+        "file": "superstar-baseball-lucky-spin-best-items"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spins",
+        "file": "superstar-baseball-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-spin-chance",
+        "file": "superstar-baseball-spin-chance"
+      },
+      {
+        "slug": "superstar-baseball-spin-guide",
+        "file": "superstar-baseball-spin-guide"
+      },
+      {
+        "slug": "superstar-baseball-spin-tips-guide",
+        "file": "superstar-baseball-spin-tips-guide"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "superstar-baseball-all-batting-styles-list",
+        "file": "superstar-baseball-all-batting-styles-list"
+      },
+      {
+        "slug": "superstar-baseball-all-pitching-styles",
+        "file": "superstar-baseball-all-pitching-styles"
+      },
+      {
+        "slug": "superstar-baseball-best-batting-style-2026",
+        "file": "superstar-baseball-best-batting-style-2026"
+      },
+      {
+        "slug": "superstar-baseball-best-style-guide",
+        "file": "superstar-baseball-best-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-best-styles",
+        "file": "superstar-baseball-best-styles"
+      },
+      {
+        "slug": "superstar-baseball-blight-style",
+        "file": "superstar-baseball-blight-style"
+      },
+      {
+        "slug": "superstar-baseball-fire-style-guide",
+        "file": "superstar-baseball-fire-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-styles",
+        "file": "superstar-baseball-how-to-get-styles"
+      },
+      {
+        "slug": "superstar-baseball-ice-style-guide",
+        "file": "superstar-baseball-ice-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching-style",
+        "file": "superstar-baseball-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-pitching-styles-tier-list",
+        "file": "superstar-baseball-pitching-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-rarest-styles",
+        "file": "superstar-baseball-rarest-styles"
+      },
+      {
+        "slug": "superstar-baseball-shadow-style",
+        "file": "superstar-baseball-shadow-style"
+      },
+      {
+        "slug": "superstar-baseball-style-showcase",
+        "file": "superstar-baseball-style-showcase"
+      },
+      {
+        "slug": "superstar-baseball-styles-tier-list",
+        "file": "superstar-baseball-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-styles",
+        "file": "superstar-baseball-styles"
+      },
+      {
+        "slug": "superstar-baseball-tier-list",
+        "file": "superstar-baseball-tier-list"
+      }
+    ]
+  },
+  "es": {
+    "batting": [
+      {
+        "slug": "superstar-baseball-batting-stance-guide",
+        "file": "superstar-baseball-batting-stance-guide"
+      },
+      {
+        "slug": "superstar-baseball-batting-tips",
+        "file": "superstar-baseball-batting-tips"
+      },
+      {
+        "slug": "superstar-baseball-batting",
+        "file": "superstar-baseball-batting"
+      },
+      {
+        "slug": "superstar-baseball-contact-tips-guide",
+        "file": "superstar-baseball-contact-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting-guide",
+        "file": "superstar-baseball-hitting-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting",
+        "file": "superstar-baseball-hitting"
+      },
+      {
+        "slug": "superstar-baseball-home-run-tips",
+        "file": "superstar-baseball-home-run-tips"
+      },
+      {
+        "slug": "superstar-baseball-home-runs",
+        "file": "superstar-baseball-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-how-to-hit-home-runs",
+        "file": "superstar-baseball-how-to-hit-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-power-batting-guide",
+        "file": "superstar-baseball-power-batting-guide"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "superstar-baseball-codes-2025",
+        "file": "superstar-baseball-codes-2025"
+      },
+      {
+        "slug": "superstar-baseball-codes-2026-list",
+        "file": "superstar-baseball-codes-2026-list"
+      },
+      {
+        "slug": "superstar-baseball-codes",
+        "file": "superstar-baseball-codes"
+      },
+      {
+        "slug": "superstar-baseball-expired-codes-list",
+        "file": "superstar-baseball-expired-codes-list"
+      },
+      {
+        "slug": "superstar-baseball-new-codes-this-week",
+        "file": "superstar-baseball-new-codes-this-week"
+      },
+      {
+        "slug": "superstar-baseball-redeem-code-list",
+        "file": "superstar-baseball-redeem-code-list"
+      },
+      {
+        "slug": "superstar-baseball-working-codes",
+        "file": "superstar-baseball-working-codes"
+      }
+    ],
+    "fielding": [
+      {
+        "slug": "superstar-baseball-coverage",
+        "file": "superstar-baseball-coverage"
+      },
+      {
+        "slug": "superstar-baseball-diving-catch-guide",
+        "file": "superstar-baseball-diving-catch-guide"
+      },
+      {
+        "slug": "superstar-baseball-flyout",
+        "file": "superstar-baseball-flyout"
+      },
+      {
+        "slug": "superstar-baseball-how-to-reduce-errors",
+        "file": "superstar-baseball-how-to-reduce-errors"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blight-superstar-baseball",
+        "file": "blight-superstar-baseball"
+      },
+      {
+        "slug": "codes-for-superstar-baseball-roblox",
+        "file": "codes-for-superstar-baseball-roblox"
+      },
+      {
+        "slug": "fake-hub-superstar-baseball-script",
+        "file": "fake-hub-superstar-baseball-script"
+      },
+      {
+        "slug": "how-to-get-good-at-superstar-baseball",
+        "file": "how-to-get-good-at-superstar-baseball"
+      },
+      {
+        "slug": "how-to-hit-home-runs-in-superstar-baseball-roblox",
+        "file": "how-to-hit-home-runs-in-superstar-baseball-roblox"
+      },
+      {
+        "slug": "super-star-baseball",
+        "file": "super-star-baseball"
+      },
+      {
+        "slug": "superstar-basebal",
+        "file": "superstar-basebal"
+      },
+      {
+        "slug": "superstar-baseball-beginner-guide",
+        "file": "superstar-baseball-beginner-guide"
+      },
+      {
+        "slug": "superstar-baseball-controls",
+        "file": "superstar-baseball-controls"
+      },
+      {
+        "slug": "superstar-baseball-guide",
+        "file": "superstar-baseball-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-level-up-fast",
+        "file": "superstar-baseball-how-to-level-up-fast"
+      },
+      {
+        "slug": "superstar-baseball-meta-guide",
+        "file": "superstar-baseball-meta-guide"
+      },
+      {
+        "slug": "superstar-baseball-rank-guide",
+        "file": "superstar-baseball-rank-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-guide",
+        "file": "superstar-baseball-roblox-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-wiki",
+        "file": "superstar-baseball-roblox-wiki"
+      },
+      {
+        "slug": "superstar-baseball-script-keyless",
+        "file": "superstar-baseball-script-keyless"
+      },
+      {
+        "slug": "superstar-baseball-stars-guide",
+        "file": "superstar-baseball-stars-guide"
+      },
+      {
+        "slug": "superstar-baseball-tips-and-tricks",
+        "file": "superstar-baseball-tips-and-tricks"
+      },
+      {
+        "slug": "superstar-baseball-tips",
+        "file": "superstar-baseball-tips"
+      },
+      {
+        "slug": "superstar-baseball-tutorial",
+        "file": "superstar-baseball-tutorial"
+      },
+      {
+        "slug": "superstar-baseball-wiki-overview",
+        "file": "superstar-baseball-wiki-overview"
+      },
+      {
+        "slug": "superstar-baseball-wiki",
+        "file": "superstar-baseball-wiki"
+      },
+      {
+        "slug": "superstar-baseball",
+        "file": "superstar-baseball"
+      }
+    ],
+    "pitching": [
+      {
+        "slug": "superstar-baseball-all-pitches",
+        "file": "superstar-baseball-all-pitches"
+      },
+      {
+        "slug": "superstar-baseball-best-pitching-style",
+        "file": "superstar-baseball-best-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-changeup-guide",
+        "file": "superstar-baseball-changeup-guide"
+      },
+      {
+        "slug": "superstar-baseball-curve-ball-guide",
+        "file": "superstar-baseball-curve-ball-guide"
+      },
+      {
+        "slug": "superstar-baseball-fastball-tips-guide",
+        "file": "superstar-baseball-fastball-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-pitch-better",
+        "file": "superstar-baseball-how-to-pitch-better"
+      },
+      {
+        "slug": "superstar-baseball-pitches",
+        "file": "superstar-baseball-pitches"
+      },
+      {
+        "slug": "superstar-baseball-pitching-guide",
+        "file": "superstar-baseball-pitching-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching",
+        "file": "superstar-baseball-pitching"
+      }
+    ],
+    "script": [
+      {
+        "slug": "superstar-baseball-gui-script-guide",
+        "file": "superstar-baseball-gui-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-keyless-script-guide",
+        "file": "superstar-baseball-keyless-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-macro",
+        "file": "superstar-baseball-macro"
+      },
+      {
+        "slug": "superstar-baseball-roblox-script-guide",
+        "file": "superstar-baseball-roblox-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-script-2026",
+        "file": "superstar-baseball-script-2026"
+      },
+      {
+        "slug": "superstar-baseball-script-no-key",
+        "file": "superstar-baseball-script-no-key"
+      },
+      {
+        "slug": "superstar-baseball-script",
+        "file": "superstar-baseball-script"
+      }
+    ],
+    "spins": [
+      {
+        "slug": "superstar-baseball-free-spin",
+        "file": "superstar-baseball-free-spin"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-free-spins",
+        "file": "superstar-baseball-how-to-get-free-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-lucky-spins",
+        "file": "superstar-baseball-how-to-get-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-lucky-spins",
+        "file": "superstar-baseball-how-to-use-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-wheelspins",
+        "file": "superstar-baseball-how-to-use-wheelspins"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spin-best-items",
+        "file": "superstar-baseball-lucky-spin-best-items"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spins",
+        "file": "superstar-baseball-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-spin-chance",
+        "file": "superstar-baseball-spin-chance"
+      },
+      {
+        "slug": "superstar-baseball-spin-guide",
+        "file": "superstar-baseball-spin-guide"
+      },
+      {
+        "slug": "superstar-baseball-spin-tips-guide",
+        "file": "superstar-baseball-spin-tips-guide"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "superstar-baseball-all-batting-styles-list",
+        "file": "superstar-baseball-all-batting-styles-list"
+      },
+      {
+        "slug": "superstar-baseball-all-pitching-styles",
+        "file": "superstar-baseball-all-pitching-styles"
+      },
+      {
+        "slug": "superstar-baseball-best-batting-style-2026",
+        "file": "superstar-baseball-best-batting-style-2026"
+      },
+      {
+        "slug": "superstar-baseball-best-style-guide",
+        "file": "superstar-baseball-best-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-best-styles",
+        "file": "superstar-baseball-best-styles"
+      },
+      {
+        "slug": "superstar-baseball-blight-style",
+        "file": "superstar-baseball-blight-style"
+      },
+      {
+        "slug": "superstar-baseball-fire-style-guide",
+        "file": "superstar-baseball-fire-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-styles",
+        "file": "superstar-baseball-how-to-get-styles"
+      },
+      {
+        "slug": "superstar-baseball-ice-style-guide",
+        "file": "superstar-baseball-ice-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching-style",
+        "file": "superstar-baseball-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-pitching-styles-tier-list",
+        "file": "superstar-baseball-pitching-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-rarest-styles",
+        "file": "superstar-baseball-rarest-styles"
+      },
+      {
+        "slug": "superstar-baseball-shadow-style",
+        "file": "superstar-baseball-shadow-style"
+      },
+      {
+        "slug": "superstar-baseball-style-showcase",
+        "file": "superstar-baseball-style-showcase"
+      },
+      {
+        "slug": "superstar-baseball-styles-tier-list",
+        "file": "superstar-baseball-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-styles",
+        "file": "superstar-baseball-styles"
+      },
+      {
+        "slug": "superstar-baseball-tier-list",
+        "file": "superstar-baseball-tier-list"
+      }
+    ]
+  },
+  "fr": {
+    "batting": [
+      {
+        "slug": "superstar-baseball-batting-stance-guide",
+        "file": "superstar-baseball-batting-stance-guide"
+      },
+      {
+        "slug": "superstar-baseball-batting-tips",
+        "file": "superstar-baseball-batting-tips"
+      },
+      {
+        "slug": "superstar-baseball-batting",
+        "file": "superstar-baseball-batting"
+      },
+      {
+        "slug": "superstar-baseball-contact-tips-guide",
+        "file": "superstar-baseball-contact-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting-guide",
+        "file": "superstar-baseball-hitting-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting",
+        "file": "superstar-baseball-hitting"
+      },
+      {
+        "slug": "superstar-baseball-home-run-tips",
+        "file": "superstar-baseball-home-run-tips"
+      },
+      {
+        "slug": "superstar-baseball-home-runs",
+        "file": "superstar-baseball-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-how-to-hit-home-runs",
+        "file": "superstar-baseball-how-to-hit-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-power-batting-guide",
+        "file": "superstar-baseball-power-batting-guide"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "superstar-baseball-codes-2025",
+        "file": "superstar-baseball-codes-2025"
+      },
+      {
+        "slug": "superstar-baseball-codes-2026-list",
+        "file": "superstar-baseball-codes-2026-list"
+      },
+      {
+        "slug": "superstar-baseball-codes",
+        "file": "superstar-baseball-codes"
+      },
+      {
+        "slug": "superstar-baseball-expired-codes-list",
+        "file": "superstar-baseball-expired-codes-list"
+      },
+      {
+        "slug": "superstar-baseball-new-codes-this-week",
+        "file": "superstar-baseball-new-codes-this-week"
+      },
+      {
+        "slug": "superstar-baseball-redeem-code-list",
+        "file": "superstar-baseball-redeem-code-list"
+      },
+      {
+        "slug": "superstar-baseball-working-codes",
+        "file": "superstar-baseball-working-codes"
+      }
+    ],
+    "fielding": [
+      {
+        "slug": "superstar-baseball-coverage",
+        "file": "superstar-baseball-coverage"
+      },
+      {
+        "slug": "superstar-baseball-diving-catch-guide",
+        "file": "superstar-baseball-diving-catch-guide"
+      },
+      {
+        "slug": "superstar-baseball-flyout",
+        "file": "superstar-baseball-flyout"
+      },
+      {
+        "slug": "superstar-baseball-how-to-reduce-errors",
+        "file": "superstar-baseball-how-to-reduce-errors"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blight-superstar-baseball",
+        "file": "blight-superstar-baseball"
+      },
+      {
+        "slug": "codes-for-superstar-baseball-roblox",
+        "file": "codes-for-superstar-baseball-roblox"
+      },
+      {
+        "slug": "fake-hub-superstar-baseball-script",
+        "file": "fake-hub-superstar-baseball-script"
+      },
+      {
+        "slug": "how-to-get-good-at-superstar-baseball",
+        "file": "how-to-get-good-at-superstar-baseball"
+      },
+      {
+        "slug": "how-to-hit-home-runs-in-superstar-baseball-roblox",
+        "file": "how-to-hit-home-runs-in-superstar-baseball-roblox"
+      },
+      {
+        "slug": "super-star-baseball",
+        "file": "super-star-baseball"
+      },
+      {
+        "slug": "superstar-basebal",
+        "file": "superstar-basebal"
+      },
+      {
+        "slug": "superstar-baseball-beginner-guide",
+        "file": "superstar-baseball-beginner-guide"
+      },
+      {
+        "slug": "superstar-baseball-controls",
+        "file": "superstar-baseball-controls"
+      },
+      {
+        "slug": "superstar-baseball-guide",
+        "file": "superstar-baseball-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-level-up-fast",
+        "file": "superstar-baseball-how-to-level-up-fast"
+      },
+      {
+        "slug": "superstar-baseball-meta-guide",
+        "file": "superstar-baseball-meta-guide"
+      },
+      {
+        "slug": "superstar-baseball-rank-guide",
+        "file": "superstar-baseball-rank-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-guide",
+        "file": "superstar-baseball-roblox-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-wiki",
+        "file": "superstar-baseball-roblox-wiki"
+      },
+      {
+        "slug": "superstar-baseball-script-keyless",
+        "file": "superstar-baseball-script-keyless"
+      },
+      {
+        "slug": "superstar-baseball-stars-guide",
+        "file": "superstar-baseball-stars-guide"
+      },
+      {
+        "slug": "superstar-baseball-tips-and-tricks",
+        "file": "superstar-baseball-tips-and-tricks"
+      },
+      {
+        "slug": "superstar-baseball-tips",
+        "file": "superstar-baseball-tips"
+      },
+      {
+        "slug": "superstar-baseball-tutorial",
+        "file": "superstar-baseball-tutorial"
+      },
+      {
+        "slug": "superstar-baseball-wiki-overview",
+        "file": "superstar-baseball-wiki-overview"
+      },
+      {
+        "slug": "superstar-baseball-wiki",
+        "file": "superstar-baseball-wiki"
+      },
+      {
+        "slug": "superstar-baseball",
+        "file": "superstar-baseball"
+      }
+    ],
+    "pitching": [
+      {
+        "slug": "superstar-baseball-all-pitches",
+        "file": "superstar-baseball-all-pitches"
+      },
+      {
+        "slug": "superstar-baseball-best-pitching-style",
+        "file": "superstar-baseball-best-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-changeup-guide",
+        "file": "superstar-baseball-changeup-guide"
+      },
+      {
+        "slug": "superstar-baseball-curve-ball-guide",
+        "file": "superstar-baseball-curve-ball-guide"
+      },
+      {
+        "slug": "superstar-baseball-fastball-tips-guide",
+        "file": "superstar-baseball-fastball-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-pitch-better",
+        "file": "superstar-baseball-how-to-pitch-better"
+      },
+      {
+        "slug": "superstar-baseball-pitches",
+        "file": "superstar-baseball-pitches"
+      },
+      {
+        "slug": "superstar-baseball-pitching-guide",
+        "file": "superstar-baseball-pitching-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching",
+        "file": "superstar-baseball-pitching"
+      }
+    ],
+    "script": [
+      {
+        "slug": "superstar-baseball-gui-script-guide",
+        "file": "superstar-baseball-gui-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-keyless-script-guide",
+        "file": "superstar-baseball-keyless-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-macro",
+        "file": "superstar-baseball-macro"
+      },
+      {
+        "slug": "superstar-baseball-roblox-script-guide",
+        "file": "superstar-baseball-roblox-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-script-2026",
+        "file": "superstar-baseball-script-2026"
+      },
+      {
+        "slug": "superstar-baseball-script-no-key",
+        "file": "superstar-baseball-script-no-key"
+      },
+      {
+        "slug": "superstar-baseball-script",
+        "file": "superstar-baseball-script"
+      }
+    ],
+    "spins": [
+      {
+        "slug": "superstar-baseball-free-spin",
+        "file": "superstar-baseball-free-spin"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-free-spins",
+        "file": "superstar-baseball-how-to-get-free-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-lucky-spins",
+        "file": "superstar-baseball-how-to-get-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-lucky-spins",
+        "file": "superstar-baseball-how-to-use-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-wheelspins",
+        "file": "superstar-baseball-how-to-use-wheelspins"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spin-best-items",
+        "file": "superstar-baseball-lucky-spin-best-items"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spins",
+        "file": "superstar-baseball-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-spin-chance",
+        "file": "superstar-baseball-spin-chance"
+      },
+      {
+        "slug": "superstar-baseball-spin-guide",
+        "file": "superstar-baseball-spin-guide"
+      },
+      {
+        "slug": "superstar-baseball-spin-tips-guide",
+        "file": "superstar-baseball-spin-tips-guide"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "superstar-baseball-all-batting-styles-list",
+        "file": "superstar-baseball-all-batting-styles-list"
+      },
+      {
+        "slug": "superstar-baseball-all-pitching-styles",
+        "file": "superstar-baseball-all-pitching-styles"
+      },
+      {
+        "slug": "superstar-baseball-best-batting-style-2026",
+        "file": "superstar-baseball-best-batting-style-2026"
+      },
+      {
+        "slug": "superstar-baseball-best-style-guide",
+        "file": "superstar-baseball-best-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-best-styles",
+        "file": "superstar-baseball-best-styles"
+      },
+      {
+        "slug": "superstar-baseball-blight-style",
+        "file": "superstar-baseball-blight-style"
+      },
+      {
+        "slug": "superstar-baseball-fire-style-guide",
+        "file": "superstar-baseball-fire-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-styles",
+        "file": "superstar-baseball-how-to-get-styles"
+      },
+      {
+        "slug": "superstar-baseball-ice-style-guide",
+        "file": "superstar-baseball-ice-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching-style",
+        "file": "superstar-baseball-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-pitching-styles-tier-list",
+        "file": "superstar-baseball-pitching-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-rarest-styles",
+        "file": "superstar-baseball-rarest-styles"
+      },
+      {
+        "slug": "superstar-baseball-shadow-style",
+        "file": "superstar-baseball-shadow-style"
+      },
+      {
+        "slug": "superstar-baseball-style-showcase",
+        "file": "superstar-baseball-style-showcase"
+      },
+      {
+        "slug": "superstar-baseball-styles-tier-list",
+        "file": "superstar-baseball-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-styles",
+        "file": "superstar-baseball-styles"
+      },
+      {
+        "slug": "superstar-baseball-tier-list",
+        "file": "superstar-baseball-tier-list"
+      }
+    ]
+  },
+  "ja": {
+    "batting": [
+      {
+        "slug": "superstar-baseball-batting-stance-guide",
+        "file": "superstar-baseball-batting-stance-guide"
+      },
+      {
+        "slug": "superstar-baseball-batting-tips",
+        "file": "superstar-baseball-batting-tips"
+      },
+      {
+        "slug": "superstar-baseball-batting",
+        "file": "superstar-baseball-batting"
+      },
+      {
+        "slug": "superstar-baseball-contact-tips-guide",
+        "file": "superstar-baseball-contact-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting-guide",
+        "file": "superstar-baseball-hitting-guide"
+      },
+      {
+        "slug": "superstar-baseball-hitting",
+        "file": "superstar-baseball-hitting"
+      },
+      {
+        "slug": "superstar-baseball-home-run-tips",
+        "file": "superstar-baseball-home-run-tips"
+      },
+      {
+        "slug": "superstar-baseball-home-runs",
+        "file": "superstar-baseball-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-how-to-hit-home-runs",
+        "file": "superstar-baseball-how-to-hit-home-runs"
+      },
+      {
+        "slug": "superstar-baseball-power-batting-guide",
+        "file": "superstar-baseball-power-batting-guide"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "superstar-baseball-codes-2025",
+        "file": "superstar-baseball-codes-2025"
+      },
+      {
+        "slug": "superstar-baseball-codes-2026-list",
+        "file": "superstar-baseball-codes-2026-list"
+      },
+      {
+        "slug": "superstar-baseball-codes",
+        "file": "superstar-baseball-codes"
+      },
+      {
+        "slug": "superstar-baseball-expired-codes-list",
+        "file": "superstar-baseball-expired-codes-list"
+      },
+      {
+        "slug": "superstar-baseball-new-codes-this-week",
+        "file": "superstar-baseball-new-codes-this-week"
+      },
+      {
+        "slug": "superstar-baseball-redeem-code-list",
+        "file": "superstar-baseball-redeem-code-list"
+      },
+      {
+        "slug": "superstar-baseball-working-codes",
+        "file": "superstar-baseball-working-codes"
+      }
+    ],
+    "fielding": [
+      {
+        "slug": "superstar-baseball-coverage",
+        "file": "superstar-baseball-coverage"
+      },
+      {
+        "slug": "superstar-baseball-diving-catch-guide",
+        "file": "superstar-baseball-diving-catch-guide"
+      },
+      {
+        "slug": "superstar-baseball-flyout",
+        "file": "superstar-baseball-flyout"
+      },
+      {
+        "slug": "superstar-baseball-how-to-reduce-errors",
+        "file": "superstar-baseball-how-to-reduce-errors"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blight-superstar-baseball",
+        "file": "blight-superstar-baseball"
+      },
+      {
+        "slug": "codes-for-superstar-baseball-roblox",
+        "file": "codes-for-superstar-baseball-roblox"
+      },
+      {
+        "slug": "fake-hub-superstar-baseball-script",
+        "file": "fake-hub-superstar-baseball-script"
+      },
+      {
+        "slug": "how-to-get-good-at-superstar-baseball",
+        "file": "how-to-get-good-at-superstar-baseball"
+      },
+      {
+        "slug": "how-to-hit-home-runs-in-superstar-baseball-roblox",
+        "file": "how-to-hit-home-runs-in-superstar-baseball-roblox"
+      },
+      {
+        "slug": "super-star-baseball",
+        "file": "super-star-baseball"
+      },
+      {
+        "slug": "superstar-basebal",
+        "file": "superstar-basebal"
+      },
+      {
+        "slug": "superstar-baseball-beginner-guide",
+        "file": "superstar-baseball-beginner-guide"
+      },
+      {
+        "slug": "superstar-baseball-controls",
+        "file": "superstar-baseball-controls"
+      },
+      {
+        "slug": "superstar-baseball-guide",
+        "file": "superstar-baseball-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-level-up-fast",
+        "file": "superstar-baseball-how-to-level-up-fast"
+      },
+      {
+        "slug": "superstar-baseball-meta-guide",
+        "file": "superstar-baseball-meta-guide"
+      },
+      {
+        "slug": "superstar-baseball-rank-guide",
+        "file": "superstar-baseball-rank-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-guide",
+        "file": "superstar-baseball-roblox-guide"
+      },
+      {
+        "slug": "superstar-baseball-roblox-wiki",
+        "file": "superstar-baseball-roblox-wiki"
+      },
+      {
+        "slug": "superstar-baseball-script-keyless",
+        "file": "superstar-baseball-script-keyless"
+      },
+      {
+        "slug": "superstar-baseball-stars-guide",
+        "file": "superstar-baseball-stars-guide"
+      },
+      {
+        "slug": "superstar-baseball-tips-and-tricks",
+        "file": "superstar-baseball-tips-and-tricks"
+      },
+      {
+        "slug": "superstar-baseball-tips",
+        "file": "superstar-baseball-tips"
+      },
+      {
+        "slug": "superstar-baseball-tutorial",
+        "file": "superstar-baseball-tutorial"
+      },
+      {
+        "slug": "superstar-baseball-wiki-overview",
+        "file": "superstar-baseball-wiki-overview"
+      },
+      {
+        "slug": "superstar-baseball-wiki",
+        "file": "superstar-baseball-wiki"
+      },
+      {
+        "slug": "superstar-baseball",
+        "file": "superstar-baseball"
+      }
+    ],
+    "pitching": [
+      {
+        "slug": "superstar-baseball-all-pitches",
+        "file": "superstar-baseball-all-pitches"
+      },
+      {
+        "slug": "superstar-baseball-best-pitching-style",
+        "file": "superstar-baseball-best-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-changeup-guide",
+        "file": "superstar-baseball-changeup-guide"
+      },
+      {
+        "slug": "superstar-baseball-curve-ball-guide",
+        "file": "superstar-baseball-curve-ball-guide"
+      },
+      {
+        "slug": "superstar-baseball-fastball-tips-guide",
+        "file": "superstar-baseball-fastball-tips-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-pitch-better",
+        "file": "superstar-baseball-how-to-pitch-better"
+      },
+      {
+        "slug": "superstar-baseball-pitches",
+        "file": "superstar-baseball-pitches"
+      },
+      {
+        "slug": "superstar-baseball-pitching-guide",
+        "file": "superstar-baseball-pitching-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching",
+        "file": "superstar-baseball-pitching"
+      }
+    ],
+    "script": [
+      {
+        "slug": "superstar-baseball-gui-script-guide",
+        "file": "superstar-baseball-gui-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-keyless-script-guide",
+        "file": "superstar-baseball-keyless-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-macro",
+        "file": "superstar-baseball-macro"
+      },
+      {
+        "slug": "superstar-baseball-roblox-script-guide",
+        "file": "superstar-baseball-roblox-script-guide"
+      },
+      {
+        "slug": "superstar-baseball-script-2026",
+        "file": "superstar-baseball-script-2026"
+      },
+      {
+        "slug": "superstar-baseball-script-no-key",
+        "file": "superstar-baseball-script-no-key"
+      },
+      {
+        "slug": "superstar-baseball-script",
+        "file": "superstar-baseball-script"
+      }
+    ],
+    "spins": [
+      {
+        "slug": "superstar-baseball-free-spin",
+        "file": "superstar-baseball-free-spin"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-free-spins",
+        "file": "superstar-baseball-how-to-get-free-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-lucky-spins",
+        "file": "superstar-baseball-how-to-get-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-lucky-spins",
+        "file": "superstar-baseball-how-to-use-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-how-to-use-wheelspins",
+        "file": "superstar-baseball-how-to-use-wheelspins"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spin-best-items",
+        "file": "superstar-baseball-lucky-spin-best-items"
+      },
+      {
+        "slug": "superstar-baseball-lucky-spins",
+        "file": "superstar-baseball-lucky-spins"
+      },
+      {
+        "slug": "superstar-baseball-spin-chance",
+        "file": "superstar-baseball-spin-chance"
+      },
+      {
+        "slug": "superstar-baseball-spin-guide",
+        "file": "superstar-baseball-spin-guide"
+      },
+      {
+        "slug": "superstar-baseball-spin-tips-guide",
+        "file": "superstar-baseball-spin-tips-guide"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "superstar-baseball-all-batting-styles-list",
+        "file": "superstar-baseball-all-batting-styles-list"
+      },
+      {
+        "slug": "superstar-baseball-all-pitching-styles",
+        "file": "superstar-baseball-all-pitching-styles"
+      },
+      {
+        "slug": "superstar-baseball-best-batting-style-2026",
+        "file": "superstar-baseball-best-batting-style-2026"
+      },
+      {
+        "slug": "superstar-baseball-best-style-guide",
+        "file": "superstar-baseball-best-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-best-styles",
+        "file": "superstar-baseball-best-styles"
+      },
+      {
+        "slug": "superstar-baseball-blight-style",
+        "file": "superstar-baseball-blight-style"
+      },
+      {
+        "slug": "superstar-baseball-fire-style-guide",
+        "file": "superstar-baseball-fire-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-how-to-get-styles",
+        "file": "superstar-baseball-how-to-get-styles"
+      },
+      {
+        "slug": "superstar-baseball-ice-style-guide",
+        "file": "superstar-baseball-ice-style-guide"
+      },
+      {
+        "slug": "superstar-baseball-pitching-style",
+        "file": "superstar-baseball-pitching-style"
+      },
+      {
+        "slug": "superstar-baseball-pitching-styles-tier-list",
+        "file": "superstar-baseball-pitching-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-rarest-styles",
+        "file": "superstar-baseball-rarest-styles"
+      },
+      {
+        "slug": "superstar-baseball-shadow-style",
+        "file": "superstar-baseball-shadow-style"
+      },
+      {
+        "slug": "superstar-baseball-style-showcase",
+        "file": "superstar-baseball-style-showcase"
+      },
+      {
+        "slug": "superstar-baseball-styles-tier-list",
+        "file": "superstar-baseball-styles-tier-list"
+      },
+      {
+        "slug": "superstar-baseball-styles",
+        "file": "superstar-baseball-styles"
+      },
+      {
+        "slug": "superstar-baseball-tier-list",
+        "file": "superstar-baseball-tier-list"
+      }
+    ]
+  }
+}
