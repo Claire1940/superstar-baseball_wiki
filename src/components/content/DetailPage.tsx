@@ -102,9 +102,9 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 			</section>
 
 			{/* 固定广告：标题下方 - 320×50 移动端横幅 */}
-			{/* <div className="sticky top-20 z-20 border-b border-border py-2">
+			<div className="sticky top-20 z-20 border-b border-border py-2">
 				<AdBanner type="banner-320x50" adKey={process.env.NEXT_PUBLIC_AD_MOBILE_320X50} />
-			</div> */}
+			</div>
 
 			{/* 左侧广告容器 - Fixed 定位 */}
 			<aside
